@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+node_modules/
+.next/
+.wrangler/
+.sites-runtime/
+data/
+*.sqlite*
+*.zip
+local-reference.json
+supplied/*.csv
