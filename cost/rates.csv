@@ -1,0 +1,9 @@
+provider,model,tier,item,unit,price_per_unit,currency,effective_date,source_url
+openai,gpt-6-luna,default,input,token,1e-07,USD,2026-10-20,https://developers.openai.com/api/docs/models/gpt-6-luna
+openai,gpt-6-luna,default,cached_input,token,1e-08,USD,2026-10-20,https://developers.openai.com/api/docs/models/gpt-6-luna
+openai,gpt-6-luna,default,cache_write,token,1.25e-07,USD,2026-10-20,https://developers.openai.com/api/docs/models/gpt-6-luna
+openai,gpt-6-luna,default,output,token,5e-07,USD,2026-10-20,https://developers.openai.com/api/docs/models/gpt-6-luna
+typesafe,jev-1.14.0,default,input,token,4.2e-08,USD,2026-10-20,https://docs.typesafe.ai/models
+typesafe,jev-1.14.0,default,cached_input,token,4.2e-08,USD,2026-10-20,https://docs.typesafe.ai/models
+typesafe,jev-1.14.0,default,cache_write,token,4.2e-08,USD,2026-10-20,https://docs.typesafe.ai/models
+typesafe,jev-1.14.0,default,output,token,0,USD,2026-10-20,https://docs.typesafe.ai/models
