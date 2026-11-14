@@ -1,0 +1,646 @@
+{
+  "all_saved_attempts": 9308,
+  "all_saved_known_api_subtotal_usd": 0.491937052,
+  "all_saved_unknown_usage_attempts": 10,
+  "status": "measured_with_recovery",
+  "recovery_basis": {
+    "run_ids": [
+      "1c9bdf7d-5e66-49d8-adc9-7b3e7cce9566",
+      "53b109f1-32db-4921-9409-10feed899e12",
+      "d86d7361-8c61-45cf-95e8-a99b274ce69a"
+    ],
+    "measured_active_wall_seconds": 2151.203383458953,
+    "supplemental_adjudication_run_ids": [],
+    "runtime_method": "Serial-equivalent sum of request durations; conservative capacity estimate, not measured concurrent wall time. Supplemental adjudication wall time unavailable.",
+    "intervention_time": "excluded and unmeasured; this is a recovered cold experiment, not one uninterrupted run",
+    "stages": {
+      "verify": {
+        "api_usd": 0.06421256000000002,
+        "seconds": 1114.3928940369515,
+        "attempts": 145,
+        "reviews": 950,
+        "unresolved": 1
+      },
+      "group": {
+        "api_usd": 0.0003441,
+        "seconds": 2.249575499969069,
+        "attempts": 1,
+        "reviews": 0,
+        "unresolved": 0
+      },
+      "memo": {
+        "api_usd": 0.0006061,
+        "seconds": 7.556855875009205,
+        "attempts": 1,
+        "reviews": 0,
+        "unresolved": 0
+      },
+      "enrich": {
+        "api_usd": 0.3655009259999989,
+        "seconds": 2067.843047656177,
+        "attempts": 8140,
+        "reviews": 7967,
+        "unresolved": 8
+      }
+    }
+  },
+  "measurements": [
+    {
+      "run_id": "02955332-38b8-4dec-b951-413fe07796e6",
+      "kind": "resume",
+      "checksum": "a94e31663ee7b7eaa77e23b7a8425b530cc0c866ed5e714953172a0afef6a12f",
+      "rows": 500,
+      "completed": 500,
+      "failed": 0,
+      "unique_texts": 479,
+      "cache_hits_at_start": 497,
+      "seconds": 10.385380709019955,
+      "stage_seconds": {
+        "prepare": 0.000672458962071687,
+        "enrich": 0.0035725830239243805,
+        "verify": 0.014701874984893948,
+        "aggregate": 0.006934833014383912,
+        "group": 2.6447565000271425,
+        "memo": 7.659380917029921
+      },
+      "error": null,
+      "verification_agreement": 0.74,
+      "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+      "api_usd": 0.0007795,
+      "known_api_subtotal_usd": 0.0007795,
+      "unresolved_attempts": 0,
+      "attempts": 2,
+      "stages": {
+        "group": {
+          "api_usd": 0.0002739,
+          "seconds": 2.628036833018996,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        },
+        "memo": {
+          "api_usd": 0.0005056,
+          "seconds": 7.647376374981832,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        }
+      },
+      "throughput_rows_per_second": 48.14459999196157,
+      "cost_per_1000_input_rows": 0.001559,
+      "cost_per_completed_record": 1.559e-06
+    },
+    {
+      "run_id": "1c9bdf7d-5e66-49d8-adc9-7b3e7cce9566",
+      "kind": "resume",
+      "checksum": "eaa62ca6d44d717302904a9c922e99b0b4584d174309cb45295ecbc2ba2a91b5",
+      "rows": 10000,
+      "completed": 10000,
+      "failed": 0,
+      "unique_texts": 8448,
+      "cache_hits_at_start": 9842,
+      "seconds": 917.216377875011,
+      "stage_seconds": {
+        "prepare": 0.003601416014134884,
+        "enrich": 0.3816565000452101,
+        "verify": 904.5553444999969,
+        "aggregate": 0.1087576660211198,
+        "group": 2.249575499969069,
+        "memo": 7.556855875009205
+      },
+      "error": null,
+      "verification_agreement": 0.748,
+      "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+      "api_usd": 0.05772336,
+      "known_api_subtotal_usd": 0.05772336,
+      "unresolved_attempts": 0,
+      "attempts": 94,
+      "stages": {
+        "verify": {
+          "api_usd": 0.05677316000000001,
+          "seconds": 875.7278101693373,
+          "attempts": 92,
+          "reviews": 918,
+          "unresolved": 0
+        },
+        "group": {
+          "api_usd": 0.0003441,
+          "seconds": 2.1758651660056785,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        },
+        "memo": {
+          "api_usd": 0.0006061,
+          "seconds": 7.467594707966782,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        }
+      },
+      "throughput_rows_per_second": 10.902552812203163,
+      "cost_per_1000_input_rows": 0.005772336,
+      "cost_per_completed_record": 5.772336e-06
+    },
+    {
+      "run_id": "53b109f1-32db-4921-9409-10feed899e12",
+      "kind": "resume",
+      "checksum": "eaa62ca6d44d717302904a9c922e99b0b4584d174309cb45295ecbc2ba2a91b5",
+      "rows": 10000,
+      "completed": 3255,
+      "failed": 6745,
+      "unique_texts": 8448,
+      "cache_hits_at_start": 1434,
+      "seconds": 272.84184991696384,
+      "stage_seconds": {
+        "prepare": 0.5904704999993555
+      },
+      "error": "UncertainCharge: Uncertain outcome; no automatic repeat. Reconcile saved call before resuming.",
+      "verification_agreement": null,
+      "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+      "api_usd": null,
+      "known_api_subtotal_usd": 0.085141854,
+      "unresolved_attempts": 8,
+      "attempts": 1904,
+      "stages": {
+        "enrich": {
+          "api_usd": 0.08514185399999998,
+          "seconds": 920.9669031780795,
+          "attempts": 1904,
+          "reviews": 1904,
+          "unresolved": 8
+        }
+      },
+      "throughput_rows_per_second": 36.651268868919416,
+      "cost_per_1000_input_rows": null,
+      "cost_per_completed_record": null
+    },
+    {
+      "run_id": "7505a17b-e3a3-4230-b881-ef26bcba4f1f",
+      "kind": "resume",
+      "checksum": "a94e31663ee7b7eaa77e23b7a8425b530cc0c866ed5e714953172a0afef6a12f",
+      "rows": 500,
+      "completed": 497,
+      "failed": 3,
+      "unique_texts": 479,
+      "cache_hits_at_start": 497,
+      "seconds": 71.85483812500024,
+      "stage_seconds": {
+        "prepare": 2.2379328749957494,
+        "enrich": 0.0037851250381208956,
+        "verify": 59.57152162498096,
+        "aggregate": 0.00891362497350201,
+        "group": 1.6323662500362843,
+        "memo": 7.272826417000033
+      },
+      "error": null,
+      "verification_agreement": 0.74,
+      "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+      "api_usd": 0.0035164,
+      "known_api_subtotal_usd": 0.0035164,
+      "unresolved_attempts": 0,
+      "attempts": 20,
+      "stages": {
+        "verify": {
+          "api_usd": 0.0027448999999999993,
+          "seconds": 58.321493830764666,
+          "attempts": 18,
+          "reviews": 18,
+          "unresolved": 0
+        },
+        "group": {
+          "api_usd": 0.0002739,
+          "seconds": 1.621705625031609,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        },
+        "memo": {
+          "api_usd": 0.0004976,
+          "seconds": 7.264177375007421,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        }
+      },
+      "throughput_rows_per_second": 6.958473681760846,
+      "cost_per_1000_input_rows": 0.0070328,
+      "cost_per_completed_record": 7.075251509054325e-06
+    },
+    {
+      "run_id": "7f405cc5-6c22-4812-a305-1bad08e637d6",
+      "kind": "resume",
+      "checksum": "a94e31663ee7b7eaa77e23b7a8425b530cc0c866ed5e714953172a0afef6a12f",
+      "rows": 500,
+      "completed": 497,
+      "failed": 3,
+      "unique_texts": 479,
+      "cache_hits_at_start": 168,
+      "seconds": 724.5995839579846,
+      "stage_seconds": {
+        "prepare": 0.0006992089911364019,
+        "enrich": 622.0977862080326
+      },
+      "error": "UncertainCharge: Uncertain outcome; no automatic repeat. Reconcile saved call before resuming.",
+      "verification_agreement": 0.7241379310344828,
+      "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+      "api_usd": null,
+      "known_api_subtotal_usd": 0.018188062,
+      "unresolved_attempts": 1,
+      "attempts": 351,
+      "stages": {
+        "enrich": {
+          "api_usd": 0.014647961999999973,
+          "seconds": 77.10527463257313,
+          "attempts": 326,
+          "reviews": 326,
+          "unresolved": 0
+        },
+        "verify": {
+          "api_usd": 0.0035401,
+          "seconds": 76.29478962591384,
+          "attempts": 25,
+          "reviews": 25,
+          "unresolved": 1
+        }
+      },
+      "throughput_rows_per_second": 0.6900362780624949,
+      "cost_per_1000_input_rows": null,
+      "cost_per_completed_record": null
+    },
+    {
+      "run_id": "8907f2d2-294b-455d-b82a-8794128bc89d",
+      "kind": "resume",
+      "checksum": "a94e31663ee7b7eaa77e23b7a8425b530cc0c866ed5e714953172a0afef6a12f",
+      "rows": 500,
+      "completed": 168,
+      "failed": 332,
+      "unique_texts": 479,
+      "cache_hits_at_start": 116,
+      "seconds": 72.80891675001476,
+      "stage_seconds": {
+        "prepare": 2.090426334005315
+      },
+      "error": "ValueError: Severity inconsistent with intent",
+      "verification_agreement": null,
+      "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+      "api_usd": 0.00242046,
+      "known_api_subtotal_usd": 0.00242046,
+      "unresolved_attempts": 0,
+      "attempts": 54,
+      "stages": {
+        "enrich": {
+          "api_usd": 0.002420460000000001,
+          "seconds": 11.498840832791757,
+          "attempts": 54,
+          "reviews": 54,
+          "unresolved": 0
+        }
+      },
+      "throughput_rows_per_second": 6.867290742928113,
+      "cost_per_1000_input_rows": 0.00484092,
+      "cost_per_completed_record": 1.44075e-05
+    },
+    {
+      "run_id": "ab1364ef-665c-4cd8-a1ec-619624a6c9c3",
+      "kind": "warm",
+      "checksum": "c884ac3b9be5066995d5063f96ad9af6e5e082975788c1684c4f6b6ea661dd0e",
+      "rows": 100,
+      "completed": 100,
+      "failed": 0,
+      "unique_texts": 100,
+      "cache_hits_at_start": 100,
+      "seconds": 0.009379583992995322,
+      "stage_seconds": {
+        "prepare": 0.0005679999594576657,
+        "enrich": 0.00042458303505554795,
+        "verify": 0.0019187500001862645,
+        "aggregate": 0.0011201250017620623,
+        "group": 0.00011429196456447244,
+        "memo": 0.00011579098645597696
+      },
+      "error": null,
+      "verification_agreement": 1.0,
+      "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+      "api_usd": 0.0,
+      "known_api_subtotal_usd": 0.0,
+      "unresolved_attempts": 0,
+      "attempts": 0,
+      "stages": {},
+      "throughput_rows_per_second": 10661.45365025571,
+      "cost_per_1000_input_rows": 0.0,
+      "cost_per_completed_record": 0.0
+    },
+    {
+      "run_id": "b8b7e86a-37e8-40ff-a42a-0b6944cf411a",
+      "kind": "cold",
+      "checksum": "c884ac3b9be5066995d5063f96ad9af6e5e082975788c1684c4f6b6ea661dd0e",
+      "rows": 100,
+      "completed": 100,
+      "failed": 0,
+      "unique_texts": 100,
+      "cache_hits_at_start": 0,
+      "seconds": 233.49425099999644,
+      "stage_seconds": {
+        "prepare": 1.5248566250083968,
+        "enrich": 187.3385062920279,
+        "verify": 36.8453824169701,
+        "aggregate": 0.003837083000689745,
+        "group": 1.7992011249880306,
+        "memo": 5.957059249980375
+      },
+      "error": null,
+      "verification_agreement": 1.0,
+      "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+      "api_usd": 0.006795654,
+      "known_api_subtotal_usd": 0.006795654,
+      "unresolved_attempts": 0,
+      "attempts": 112,
+      "stages": {
+        "enrich": {
+          "api_usd": 0.004493454000000002,
+          "seconds": 57.64154346298892,
+          "attempts": 100,
+          "reviews": 100,
+          "unresolved": 0
+        },
+        "verify": {
+          "api_usd": 0.0015843,
+          "seconds": 36.80796241812641,
+          "attempts": 10,
+          "reviews": 10,
+          "unresolved": 0
+        },
+        "group": {
+          "api_usd": 0.0002508,
+          "seconds": 1.7965841250261292,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        },
+        "memo": {
+          "api_usd": 0.0004671,
+          "seconds": 5.952342665987089,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        }
+      },
+      "throughput_rows_per_second": 0.4282760692039545,
+      "cost_per_1000_input_rows": 0.06795654,
+      "cost_per_completed_record": 6.795654e-05
+    },
+    {
+      "run_id": "d86d7361-8c61-45cf-95e8-a99b274ce69a",
+      "kind": "resume",
+      "checksum": "eaa62ca6d44d717302904a9c922e99b0b4584d174309cb45295ecbc2ba2a91b5",
+      "rows": 10000,
+      "completed": 9845,
+      "failed": 155,
+      "unique_texts": 8448,
+      "cache_hits_at_start": 3680,
+      "seconds": 961.1451556669781,
+      "stage_seconds": {
+        "prepare": 1.1183223329717293,
+        "enrich": 740.2382362079807
+      },
+      "error": "UncertainCharge: Uncertain outcome; no automatic repeat. Reconcile saved call before resuming.",
+      "verification_agreement": 0.8148148148148148,
+      "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+      "api_usd": null,
+      "known_api_subtotal_usd": 0.287798472,
+      "unresolved_attempts": 1,
+      "attempts": 6289,
+      "stages": {
+        "enrich": {
+          "api_usd": 0.28035907199999893,
+          "seconds": 1146.8761444780976,
+          "attempts": 6236,
+          "reviews": 6236,
+          "unresolved": 0
+        },
+        "verify": {
+          "api_usd": 0.007439400000000001,
+          "seconds": 209.8375495369546,
+          "attempts": 53,
+          "reviews": 53,
+          "unresolved": 1
+        }
+      },
+      "throughput_rows_per_second": 10.404255737064595,
+      "cost_per_1000_input_rows": null,
+      "cost_per_completed_record": null
+    }
+  ],
+  "projections": [
+    {
+      "scenario": "base",
+      "exact_text_reuse": true,
+      "estimated_api_usd": null,
+      "known_usage_based_api_estimate_usd": 27.212803966033604,
+      "known_usage_based_usd_per_100000": 4.119270016141394,
+      "estimated_seconds": 207357.766907795,
+      "estimated_usd_per_100000": null,
+      "over_budget": null,
+      "exceeds_user_10_usd_per_100000_ceiling": null,
+      "local_compute_usd": null,
+      "stages": {
+        "verify": {
+          "projected_work": 66060.90000000001,
+          "estimated_api_usd": 4.554503468423244,
+          "estimated_seconds": 79042.26682564143
+        },
+        "group": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.000350982,
+          "estimated_seconds": 2.2945670099684503
+        },
+        "memo": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.0006182220000000001,
+          "estimated_seconds": 7.707992992509389
+        },
+        "enrich": {
+          "projected_work": 484189,
+          "estimated_api_usd": 22.657331293610362,
+          "estimated_seconds": 128185.18822011155
+        },
+        "fallback": {
+          "estimated_api_usd": 0.0,
+          "estimated_seconds": 0.0,
+          "status": "hypothetical only; production fallback cap is zero"
+        }
+      },
+      "assumptions": {
+        "retry_fraction": 0.02,
+        "verification_fraction": 0.1,
+        "fallback_fraction": 0,
+        "fallback_cost_multiplier": 1,
+        "throughput_factor": 1
+      }
+    },
+    {
+      "scenario": "base",
+      "exact_text_reuse": false,
+      "estimated_api_usd": null,
+      "known_usage_based_api_estimate_usd": 35.468271122079564,
+      "known_usage_based_usd_per_100000": 5.368920672045371,
+      "estimated_seconds": 254063.55928596153,
+      "estimated_usd_per_100000": null,
+      "over_budget": null,
+      "exceeds_user_10_usd_per_100000_ceiling": null,
+      "local_compute_usd": null,
+      "stages": {
+        "verify": {
+          "projected_work": 66060.90000000001,
+          "estimated_api_usd": 4.554503468423244,
+          "estimated_seconds": 79042.26682564143
+        },
+        "group": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.000350982,
+          "estimated_seconds": 2.2945670099684503
+        },
+        "memo": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.0006182220000000001,
+          "estimated_seconds": 7.707992992509389
+        },
+        "enrich": {
+          "projected_work": 660609,
+          "estimated_api_usd": 30.91279844965632,
+          "estimated_seconds": 174890.98059827808
+        },
+        "fallback": {
+          "estimated_api_usd": 0.0,
+          "estimated_seconds": 0.0,
+          "status": "hypothetical only; production fallback cap is zero"
+        }
+      },
+      "assumptions": {
+        "retry_fraction": 0.02,
+        "verification_fraction": 0.1,
+        "fallback_fraction": 0,
+        "fallback_cost_multiplier": 1,
+        "throughput_factor": 1
+      }
+    },
+    {
+      "scenario": "conservative",
+      "exact_text_reuse": true,
+      "estimated_api_usd": null,
+      "known_usage_based_api_estimate_usd": 39.145736335781194,
+      "known_usage_based_usd_per_100000": 5.925587754537571,
+      "estimated_seconds": 623115.9387439593,
+      "estimated_usd_per_100000": null,
+      "over_budget": null,
+      "exceeds_user_10_usd_per_100000_ceiling": null,
+      "local_compute_usd": null,
+      "stages": {
+        "verify": {
+          "projected_work": 132121.80000000002,
+          "estimated_api_usd": 9.8234388534619,
+          "estimated_seconds": 340966.6412086493
+        },
+        "group": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.00037851000000000003,
+          "estimated_seconds": 4.949066099931952
+        },
+        "memo": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.00066671,
+          "estimated_seconds": 16.62508292502025
+        },
+        "enrich": {
+          "projected_work": 484189,
+          "estimated_api_usd": 24.434376885266076,
+          "estimated_seconds": 276477.85694533866
+        },
+        "fallback": {
+          "estimated_api_usd": 4.886875377053216,
+          "estimated_seconds": 5529.557138906773,
+          "status": "hypothetical only; production fallback cap is zero"
+        }
+      },
+      "assumptions": {
+        "retry_fraction": 0.1,
+        "verification_fraction": 0.2,
+        "fallback_fraction": 0.02,
+        "fallback_cost_multiplier": 10,
+        "throughput_factor": 0.5
+      }
+    },
+    {
+      "scenario": "conservative",
+      "exact_text_reuse": false,
+      "estimated_api_usd": null,
+      "known_usage_based_api_estimate_usd": 49.82928206713479,
+      "known_usage_based_usd_per_100000": 7.542782721001539,
+      "estimated_seconds": 725868.6819759257,
+      "estimated_usd_per_100000": null,
+      "over_budget": null,
+      "exceeds_user_10_usd_per_100000_ceiling": null,
+      "local_compute_usd": null,
+      "stages": {
+        "verify": {
+          "projected_work": 132121.80000000002,
+          "estimated_api_usd": 9.8234388534619,
+          "estimated_seconds": 340966.6412086493
+        },
+        "group": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.00037851000000000003,
+          "estimated_seconds": 4.949066099931952
+        },
+        "memo": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.00066671,
+          "estimated_seconds": 16.62508292502025
+        },
+        "enrich": {
+          "projected_work": 660609,
+          "estimated_api_usd": 33.337331661394074,
+          "estimated_seconds": 377215.84050609
+        },
+        "fallback": {
+          "estimated_api_usd": 6.667466332278816,
+          "estimated_seconds": 7544.3168101218,
+          "status": "hypothetical only; production fallback cap is zero"
+        }
+      },
+      "assumptions": {
+        "retry_fraction": 0.1,
+        "verification_fraction": 0.2,
+        "fallback_fraction": 0.02,
+        "fallback_cost_multiplier": 10,
+        "throughput_factor": 0.5
+      }
+    }
+  ],
+  "scenarios": {
+    "total_rows": 660622,
+    "nonempty_rows": 660609,
+    "unique_nonempty_texts": 484189,
+    "budget_usd": 10,
+    "local_compute_usd_per_hour": null,
+    "base": {
+      "retry_fraction": 0.02,
+      "verification_fraction": 0.1,
+      "fallback_fraction": 0,
+      "fallback_cost_multiplier": 1,
+      "throughput_factor": 1
+    },
+    "conservative": {
+      "retry_fraction": 0.1,
+      "verification_fraction": 0.2,
+      "fallback_fraction": 0.02,
+      "fallback_cost_multiplier": 10,
+      "throughput_factor": 0.5
+    }
+  },
+  "local_compute": "unknown unless explicitly priced",
+  "infrastructure_cost": "unknown",
+  "account_usage_reconciliation": "not performed",
+  "user_ceiling_usd_per_100000": 10
+}

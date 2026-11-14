@@ -1,0 +1,8 @@
+{
+  "request_id": "10136f57-70c4-42c7-9d95-74493c40a39e",
+  "http_status": 503,
+  "provider_diagnostic": "upstream connect error or disconnect/reset before headers. reset reason: connection termination",
+  "actual_usd": null,
+  "reserved_usd": 0.003741625,
+  "decision": "User explicitly requested continuation. Allow this specific reviewed failure through resume gate; keep reservation, original failure, existing two-attempt ceiling, policy holds and shared cap."
+}

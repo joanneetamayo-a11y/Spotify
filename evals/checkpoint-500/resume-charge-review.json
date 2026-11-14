@@ -1,0 +1,10 @@
+[
+  {
+    "request_id": "fc5334c6-7d79-4440-9d3b-07f85a117e25",
+    "http_status": 429,
+    "reservation_usd": 0.0034935,
+    "actual_charge": null,
+    "decision": "Permit one resumed attempt after observed paid-tier activation. Keep original unknown charge and reservation. No inferred zero cost.",
+    "basis": "User paid OpenAI and authorized continuation; browser showed Build tier and $5.99 API balance."
+  }
+]

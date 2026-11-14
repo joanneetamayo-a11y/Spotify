@@ -1,0 +1,10 @@
+{
+  "request_id": "307c8580-977c-4fba-8ef9-34db0caae878",
+  "http_status": 400,
+  "cause": "Unknown: original logger did not preserve HTTP response body",
+  "authorization": "User requested keep going after notification of this specific failure",
+  "action": "Allow bounded resume; preserve unknown charge and full $0.003712625 reservation; capture diagnostic body on any subsequent HTTP failure",
+  "actual_cost_usd": null,
+  "reserved_usd": 0.003712625,
+  "automatic_retry_limit_unchanged": 2
+}

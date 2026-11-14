@@ -1,0 +1,178 @@
+{
+  "checked_at_utc": "2026-11-13T18:11:27.576398+00:00",
+  "archive_sha256": "ff649801158860dbaccfe95ade4e4913457bd8b1a13d034e4511b2de3a881545",
+  "archive_bytes": 80364708,
+  "file_count": 28,
+  "files": [
+    {
+      "path": "cost/all_calls.jsonl",
+      "bytes": 1228191,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/compact-v2/all_calls.jsonl",
+      "bytes": 44927071,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/compact-v2/usage.csv",
+      "bytes": 4579038,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/guarded-v5/all_calls.jsonl",
+      "bytes": 47123625,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/guarded-v5/pilot_calls.jsonl",
+      "bytes": 1660003,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/guarded-v5/usage.csv",
+      "bytes": 4702188,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/all_calls.jsonl",
+      "bytes": 145438005,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/pilot_calls.jsonl",
+      "bytes": 1847208,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/14d9bcdd-08a7-4040-92a7-509d087e6e5c.json",
+      "bytes": 29070285,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/202e5c78-8226-406a-a7d4-75d09e2ff647.json",
+      "bytes": 29070962,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/38410c50-f566-4574-adb7-1af15bd6a9c1.json",
+      "bytes": 29072158,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/3909d039-4ed7-449e-9648-ab873e733851.json",
+      "bytes": 29071145,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/4079dd13-108a-43ca-95f0-0a6e635698ec.json",
+      "bytes": 29071648,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/ab644b70-5eb2-4508-b255-fe08bb3870f7.json",
+      "bytes": 29072246,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/usage.csv",
+      "bytes": 8513558,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "cost/pilot_calls.jsonl",
+      "bytes": 1228191,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "dashboard/lib/processed-reviews.json",
+      "bytes": 8375380,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "evals/checkpoint-10000-luna/grading-support/other-experiment-calls.jsonl",
+      "bytes": 1647059,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "evals/checkpoint-10000-luna/grading/calls.jsonl",
+      "bytes": 60492176,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "evals/checkpoint-10000-luna/grading/records.jsonl",
+      "bytes": 4532521,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "evals/checkpoint-10000/grading/calls.jsonl",
+      "bytes": 44571311,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "evals/checkpoint-10000/grading/records.jsonl",
+      "bytes": 4450486,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "evals/checkpoint-10000/verification.json",
+      "bytes": 1084909,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "evals/checkpoint-500/grading/calls.jsonl",
+      "bytes": 3155355,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "grading-support/other-experiment-calls.jsonl",
+      "bytes": 1516905,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "grading/calls.jsonl",
+      "bytes": 143921100,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "grading/membership.csv",
+      "bytes": 2530280,
+      "credential_findings": 0,
+      "sha256_verified": true
+    },
+    {
+      "path": "grading/records.jsonl",
+      "bytes": 181579211,
+      "credential_findings": 0,
+      "sha256_verified": true
+    }
+  ],
+  "failures": [],
+  "scan_scope": "Decompressed bytes checked against all configured local secrets and common OpenAI/Anthropic/GitHub/AWS/private-key/JWT patterns. All files UTF-8 evidence exports; no .env or database files. User explicitly requested public repository upload."
+}

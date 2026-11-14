@@ -1,0 +1,23 @@
+{
+  "project_id": "appgprj_6ad8242f523c819188c51e8e3ee24ce0",
+  "deployment_id": "appgdep_6add1fa7a80081919fe7fd69ffcecacd",
+  "version_id": "appgprj_6ad8242f523c819188c51e8e3ee24ce0~appgver_c29eb6afeb308191938af4536ce6cbc2",
+  "commit_sha": "f3b30865bd5284fbcd7f7e2f937c96baf07d3d81",
+  "status": "succeeded",
+  "url": "https://spotify-review-evidence-joanne.joanne-e-tamayo.chatgpt.site",
+  "updated_at": "2026-10-24T21:14:26.146453+00:00",
+  "audience": "owner-private",
+  "local_backend_verified": true,
+  "production_database_import": "Verified: final offset=9900 import returned HTTP 200; subsequent /api/metrics returned HTTP 200 in production Worker logs.",
+  "progress_update": {
+    "deployment_id": "appgdep_6ade64eb74588191a567102567bd6ca3",
+    "version_id": "appgprj_6ad8242f523c819188c51e8e3ee24ce0~appgver_a62eff140ce481918dc16821990654e9",
+    "commit_sha": "90308e35c78b1c5dca1ea917d05686d3f3005734",
+    "status": "succeeded",
+    "updated_at": "2026-10-25T20:22:12.595378+00:00",
+    "completed": 220546,
+    "remaining": 440063,
+    "analysis_scope": "Earlier Jev 10000 checkpoint retained and explicitly labeled",
+    "validation": "Production build passed; native deployment succeeded. Local browser preview unavailable due port permission."
+  }
+}

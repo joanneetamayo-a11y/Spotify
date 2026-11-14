@@ -1,0 +1,34 @@
+{
+  "config": {
+    "provider": "typesafe",
+    "model": "jev-1.14.0",
+    "effort": "not_applicable",
+    "verify_model": "gpt-6-luna",
+    "verify_effort": "low",
+    "memo_model": "gpt-6-luna",
+    "memo_effort": "none",
+    "prompt_version": "spotify-jev-compact-v2",
+    "schema_version": "labels-v1",
+    "batch_size": 1,
+    "workers": 1,
+    "max_output_tokens": 6000,
+    "max_attempts": 2,
+    "requests_per_minute": 30,
+    "tokens_per_minute": 100000,
+    "verification_fraction": 0.1,
+    "max_fallback_fraction": 0.0,
+    "fallback_model": null,
+    "fallback_effort": "low",
+    "minimum_verification_agreement": 0.85,
+    "budget_usd": 0.05,
+    "max_input_bytes": 64000,
+    "jev_prompt_style": "compact-v2",
+    "cost_output_dir": "/Users/joannetamayo/Documents/ChatGPT/Final Assignment_Agentic AI/cost/experiments/compact-v2"
+  },
+  "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+  "code_sha256": {
+    "pipeline/jev.py": "16dae4391d01ec1aa734dd2f545b1281f496201d237d54f9dde5f50f1ff6aa79",
+    "pipeline/rubric.txt": "4c9d7d70b20b4ebe1bdbcdbeeeb52d17f2e5d21cef63283d346548a517fa0840"
+  },
+  "human_labels_in_inputs": false
+}

@@ -1,0 +1,17 @@
+{
+  "request_id": "bc0b731a-5369-4666-b75d-58f798ff0103",
+  "review_ids": [
+    "eee9a883-282e-4b52-9cca-92b0a1926628",
+    "541ea10d-3356-4998-8db8-cc7e08cc5531",
+    "9ccd61f4-285c-4801-88b0-aaad5da73870",
+    "cd0c6735-0915-4f69-a79c-d6037d6128d3",
+    "cfa02733-c8d2-465d-8de1-9be2f4a16adb",
+    "56ef21df-e8c2-40e2-91e7-b010435d543a",
+    "e65e78b4-bc04-4c87-b802-7492dcc10c51",
+    "d7cd8874-1c3d-482c-9618-24a9745457e5",
+    "0d8fd66f-0306-4f8b-bfe9-92937bae3db6",
+    "a1f276a6-bbc5-4f69-92e7-bf72b494de97"
+  ],
+  "reason": "{\n  \"error\": {\n    \"message\": \"Invalid prompt: your prompt was flagged as potentially violating our usage policy. Please try again with a different prompt: https://platform.openai.com/docs/guides/reasoning#advice-on-prompting\",\n    \"type\": \"invalid_request_error\",\n    \"param\": null,\n    \"code\": \"invalid_prompt\"\n  }\n}",
+  "action": "Hold rejected batch and exact-text duplicates; no automatic resubmission. Unknown charge reservation retained. User requested continuing remaining work."
+}

@@ -1,0 +1,11 @@
+{
+  "status": "500_classified_with_3_flagged_adjudications",
+  "completed": 500,
+  "unresolved_classifications": 0,
+  "adjudications_needing_review": 3,
+  "verification_completed": 50,
+  "verification_agreement": 0.74,
+  "known_checkpoint_api_subtotal_usd": 0.025202122,
+  "unknown_charge_calls": 1,
+  "next_checkpoint_approved": false
+}

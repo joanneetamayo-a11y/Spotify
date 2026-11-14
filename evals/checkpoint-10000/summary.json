@@ -1,0 +1,28 @@
+{
+  "status": "execution_complete_export_review_required",
+  "completed": 10000,
+  "failed": 0,
+  "verification_sample": 1000,
+  "verification_agreement": 0.748,
+  "known_checkpoint_api_subtotal_usd": 0.439282466,
+  "unknown_checkpoint_calls": 9,
+  "cumulative_ledger_spent_plus_reserved_usd": 0.500230117,
+  "latest_resume_seconds": 917.216377875011,
+  "checker_status": "review_required",
+  "cache_rows_with_originals_outside_sample": 87,
+  "independent_checks": {
+    "source_hashes": 10000,
+    "exact_quotes": 10000,
+    "database_cache_provenance": true,
+    "ranking_recomputed": true
+  },
+  "full_run_started": false,
+  "export_scoped_calls": true,
+  "independent_check_file": "independent-check.json",
+  "checker_issue_counts": {
+    "invalid_cache_reuse": 87,
+    "invalid_usage": 20,
+    "resume_snapshot_mismatch": 1,
+    "unfinished_classification": 1
+  }
+}

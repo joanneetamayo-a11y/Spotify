@@ -1,0 +1,8 @@
+{
+  "size": 100,
+  "reviewer": "Codex documented development-checkpoint review; user explicitly requested 500 after disclosed evaluation failures",
+  "quality_accepted": true,
+  "injection_tests_accepted": true,
+  "conservative_usd_per_100000": 7.832775978644252,
+  "notes": "Acceptance is permission for a bounded development measurement, NOT a passing adversarial result or production approval. User explicitly requested the 500-review run after 5/7 adversarial results and golden agreement were disclosed. Compact pilot completed 100, blind sample agreement 10/10, warm zero calls. Preserve injection intent error, refund/cancellation ambiguity, 49/50 golden completion, and human taxonomy differences. No prompt changes or golden-answer inputs. Do not auto-approve 10000. Five-cent cumulative shared ledger cap."
+}

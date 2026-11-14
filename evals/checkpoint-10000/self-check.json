@@ -1,0 +1,210 @@
+{
+  "audit_script_sha256": "d60bd66d84922d934c65b3d42b2c7d36cc738e8c75e2d6f2b2f58bca3141c26d",
+  "audit_version": "a5-audit-v1",
+  "automatic_grade": null,
+  "calculated_ranking": [
+    {
+      "complaint_count": 1302,
+      "issue_id": "usability",
+      "mean_severity": "2.509217",
+      "priority_score": 3267,
+      "rank": 1,
+      "severity_sum": 3267
+    },
+    {
+      "complaint_count": 1430,
+      "issue_id": "other",
+      "mean_severity": "1.996503",
+      "priority_score": 2855,
+      "rank": 2,
+      "severity_sum": 2855
+    },
+    {
+      "complaint_count": 626,
+      "issue_id": "playback",
+      "mean_severity": "3.335463",
+      "priority_score": 2088,
+      "rank": 3,
+      "severity_sum": 2088
+    },
+    {
+      "complaint_count": 663,
+      "issue_id": "billing",
+      "mean_severity": "2.728507",
+      "priority_score": 1809,
+      "rank": 4,
+      "severity_sum": 1809
+    },
+    {
+      "complaint_count": 146,
+      "issue_id": "access",
+      "mean_severity": "3.904110",
+      "priority_score": 570,
+      "rank": 5,
+      "severity_sum": 570
+    },
+    {
+      "complaint_count": 198,
+      "issue_id": "catalog",
+      "mean_severity": "2.823232",
+      "priority_score": 559,
+      "rank": 6,
+      "severity_sum": 559
+    },
+    {
+      "complaint_count": 81,
+      "issue_id": "downloads",
+      "mean_severity": "3.271605",
+      "priority_score": 265,
+      "rank": 7,
+      "severity_sum": 265
+    },
+    {
+      "complaint_count": 11,
+      "issue_id": "support",
+      "mean_severity": "2.636364",
+      "priority_score": 29,
+      "rank": 8,
+      "severity_sum": 29
+    }
+  ],
+  "coverage": {
+    "accounted_fraction": 0.9913,
+    "duplicate_ids": 0,
+    "expected": 10000,
+    "invalid_or_unresolved": 87,
+    "labelable": 10000,
+    "labelable_completion_fraction": 0.9913,
+    "missing": 0,
+    "quarantined": 0,
+    "received_lines": 10000,
+    "unique_expected_ids": 10000,
+    "valid_cache_reuses": 1467,
+    "valid_completed": 9913,
+    "valid_completion_fraction": 0.9913
+  },
+  "examples": [
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "710e1aee-ed80-4753-9c4e-c63bee84fd56"
+    },
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "8454aa1e-ceb7-4676-adf7-e20f6989f5c9"
+    },
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "ff837c31-b7f4-4450-8e5c-e5842776f3bb"
+    },
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "e79310b8-a9d6-4765-9652-ee0c87c951b5"
+    },
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "3a186a32-f896-4268-8704-4ef7a6bfc327"
+    },
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "c42bcd17-bd98-4cbe-9f8e-dccd0d34b1f7"
+    },
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "3fc12f68-24a7-420b-be39-7dd1e3977cca"
+    },
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "4ffaa225-4852-47a4-bf28-cfc8824f77ea"
+    },
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "714e1f9c-0f92-4884-ad57-4d732c6fedb4"
+    },
+    {
+      "code": "invalid_cache_reuse",
+      "detail": "be2d809f-b63b-4b2c-8c67-449a83a6d900"
+    },
+    {
+      "code": "unfinished_classification",
+      "detail": "87"
+    },
+    {
+      "code": "resume_snapshot_mismatch",
+      "detail": "Need a nonempty checkpoint and additional completed IDs after resume."
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "fc5334c6-7d79-4440-9d3b-07f85a117e25"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "fc5334c6-7d79-4440-9d3b-07f85a117e25"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "9a338dc4-3b34-4571-a525-f6d9b26ffafd"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "9a338dc4-3b34-4571-a525-f6d9b26ffafd"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "a0b606cf-fda8-4d58-b96c-fedcfd96e081"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "a0b606cf-fda8-4d58-b96c-fedcfd96e081"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "37e606c6-a8df-459f-81c3-fa03d4ac477e"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "37e606c6-a8df-459f-81c3-fa03d4ac477e"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "7d5d7425-6a62-4e5b-b875-7ad20eb55e40"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "7d5d7425-6a62-4e5b-b875-7ad20eb55e40"
+    }
+  ],
+  "hash_convention": "Reference/benchmark: canonical UTF-8 JSON via canonical(); input files and audit script: exact bytes.",
+  "input_files_sha256": {
+    "calls.jsonl": "e4ead37d5bf0fb7e16aa9b7dcd65c4afa3628a883d30f3b07596eb9c4bdbca1b",
+    "checkpoint_after.json": "e4c8bc11dbc1f3dfec3ca6ffb8abd0b7a3c4f99a431f1da0e095da4fa996b720",
+    "checkpoint_before.json": "4bb08f985e74d240f7705f67f79f49c4084ff5a8f36afd140123136f9b3f3af3",
+    "claims.csv": "e1c7609a1fb23883a786d0f825743659776a3aedcbfa30060609650970846dd2",
+    "ingestion.json": "5512dd793b0bde3bd51f28b20b440108f3c9bab31233819bea5f32ce19482153",
+    "membership.csv": "0394e4f1728c8f239969041011de1c7b0eaf1b9cb27330f2907dc01f50a94639",
+    "ranking.csv": "4e5d24f7a6d2ef56baa4517ef3007dafa1f8478c85fb2d913dacee62da738cea",
+    "records.jsonl": "4f3ad0efafe10fe7acdfc17833d8866fd884b634485ac9f361a8a4baa18a5719",
+    "run.json": "4ea9903dfee0aaece20c248135d3dde181d7656414d17eef49b5feff125fdfa1"
+  },
+  "issue_counts": {
+    "invalid_cache_reuse": 87,
+    "invalid_usage": 20,
+    "resume_snapshot_mismatch": 1,
+    "unfinished_classification": 1
+  },
+  "limits": [
+    "Artifacts do not prove actual model execution, authorship, cost, or independent verification.",
+    "Exact quote membership does not prove that the quote supports the label.",
+    "Claims export checks numbers; a person must check that all memo claims are represented.",
+    "Benchmark agreement is diagnostic; final 4/3/3 grades require rubric review."
+  ],
+  "quality": {
+    "official": false,
+    "status": "not_supplied"
+  },
+  "reference_sha256": "a2b043980cedf8a6880c7fdaba8c3d8aab3101235cc5046426a12df5ee1dfccb",
+  "reported_calls": 9243,
+  "reported_input_tokens": 9837542,
+  "reported_output_tokens": 2546212,
+  "status": "review_required",
+  "working_coverage_point_candidate": 0.993
+}

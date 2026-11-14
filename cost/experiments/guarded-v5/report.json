@@ -1,0 +1,124 @@
+{
+  "all_saved_attempts": 9578,
+  "all_saved_known_api_subtotal_usd": 0.51214786,
+  "all_saved_unknown_usage_attempts": 10,
+  "status": "blocked_no_completed_real_cold_pilot",
+  "recovery_basis": null,
+  "measurements": [
+    {
+      "run_id": "4fc02057-745a-4716-8b9d-011c33d7f2a1",
+      "kind": "cold",
+      "checksum": "c884ac3b9be5066995d5063f96ad9af6e5e082975788c1684c4f6b6ea661dd0e",
+      "rows": 100,
+      "completed": 99,
+      "failed": 1,
+      "unique_texts": 100,
+      "cache_hits_at_start": 0,
+      "seconds": 52.28687016596086,
+      "stage_seconds": {
+        "prepare": 1.4215312090236694,
+        "enrich": 26.83998333400814,
+        "verify": 13.901331999979448,
+        "aggregate": 0.002846082963515073,
+        "group": 2.175742000050377,
+        "memo": 7.158392625045963
+      },
+      "error": null,
+      "verification_agreement": 0.7,
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88",
+      "api_usd": 0.010002204,
+      "known_api_subtotal_usd": 0.010002204,
+      "unresolved_attempts": 0,
+      "attempts": 105,
+      "stages": {
+        "enrich": {
+          "api_usd": 0.008579004,
+          "seconds": 13.030121875402983,
+          "attempts": 102,
+          "reviews": 102,
+          "unresolved": 0
+        },
+        "verify": {
+          "api_usd": 0.000678,
+          "seconds": 12.620079667016398,
+          "attempts": 1,
+          "reviews": 10,
+          "unresolved": 0
+        },
+        "group": {
+          "api_usd": 0.0002562,
+          "seconds": 1.860979832999874,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        },
+        "memo": {
+          "api_usd": 0.000489,
+          "seconds": 7.0707338330103084,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        }
+      },
+      "throughput_rows_per_second": 1.9125260257995083,
+      "cost_per_1000_input_rows": 0.10002204,
+      "cost_per_completed_record": 0.00010103236363636365
+    },
+    {
+      "run_id": "c48b40ce-a10e-4a0d-8925-528beba9e4e7",
+      "kind": "warm",
+      "checksum": "c884ac3b9be5066995d5063f96ad9af6e5e082975788c1684c4f6b6ea661dd0e",
+      "rows": 100,
+      "completed": 99,
+      "failed": 1,
+      "unique_texts": 100,
+      "cache_hits_at_start": 99,
+      "seconds": 4.230955458013341,
+      "stage_seconds": {
+        "prepare": 2.961286125006154,
+        "enrich": 0.0344756250269711,
+        "verify": 0.01311187504325062,
+        "aggregate": 0.0026591249625198543,
+        "group": 0.00023979204706847668,
+        "memo": 0.00019704201258718967
+      },
+      "error": null,
+      "verification_agreement": 0.7,
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88",
+      "api_usd": 0.0,
+      "known_api_subtotal_usd": 0.0,
+      "unresolved_attempts": 0,
+      "attempts": 0,
+      "stages": {},
+      "throughput_rows_per_second": 23.63532327209971,
+      "cost_per_1000_input_rows": 0.0,
+      "cost_per_completed_record": 0.0
+    }
+  ],
+  "projections": [],
+  "scenarios": {
+    "total_rows": 660622,
+    "nonempty_rows": 660609,
+    "unique_nonempty_texts": 484189,
+    "budget_usd": 10,
+    "local_compute_usd_per_hour": null,
+    "base": {
+      "retry_fraction": 0.02,
+      "verification_fraction": 0.1,
+      "fallback_fraction": 0,
+      "fallback_cost_multiplier": 1,
+      "throughput_factor": 1
+    },
+    "conservative": {
+      "retry_fraction": 0.1,
+      "verification_fraction": 0.2,
+      "fallback_fraction": 0.02,
+      "fallback_cost_multiplier": 10,
+      "throughput_factor": 0.5
+    }
+  },
+  "local_compute": "unknown unless explicitly priced",
+  "infrastructure_cost": "unknown",
+  "account_usage_reconciliation": "not performed",
+  "user_ceiling_usd_per_100000": 10
+}

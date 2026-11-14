@@ -1,0 +1,8 @@
+{
+  "size": 10000,
+  "quality_accepted": true,
+  "injection_tests_accepted": true,
+  "reviewer": "Codex saved-evidence review; user authorized full run without accuracy threshold",
+  "notes": "10000 valid completed records; independent hash/quotes/cache/ranking pass; assignment checker coverage 100%. Verifier agreement 82.5%, same-family limitation. Packaging, mixed-experiment call logs and unknown usage remain disclosed; not a clean final submission check. 31 development injection cases passed earlier. Projection known usage conservative 5.576817 per100k; allowance rounded upward to 6 for uncertainty; actual unknown reservations retained, cumulative full cap 66.06.",
+  "conservative_usd_per_100000": 6.0
+}

@@ -1,0 +1,10 @@
+{
+  "checked_at_utc": "2026-11-13T17:47:34.313668+00:00",
+  "scope": "Prepared partial submission upload",
+  "credential_scan": "passed: exact configured secrets and common key patterns absent; .env excluded",
+  "offline_archive_restore": "passed; 28 files SHA-256 verified",
+  "offline_calculator": "passed; measured_with_recovery, 9 saved runs, 4 scenarios",
+  "unit_tests": "18 passed",
+  "paid_model_execution": false,
+  "full_corpus_contract": "not claimed passed; see self-check.json and SUBMISSION_STATUS.md"
+}

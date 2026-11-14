@@ -1,0 +1,18 @@
+{
+  "request_id": "57bd78c8-295b-44ed-bd7f-ef04d211a321",
+  "review_ids": [
+    "9d74b9c5-73fd-4cab-a1ac-bb484ecc4332",
+    "bd0506f9-1e96-4541-8730-f0a5bfc656a9",
+    "611d357a-0b74-4634-9545-0d12200eee1b",
+    "bb553d8d-21d8-4078-bb6e-b46821e79db7",
+    "9a7d0752-ccf7-470b-b68c-b2dea379f1b7",
+    "799af3cd-19d8-4c48-b287-53f846b9d1c3",
+    "3fc9549c-a518-4474-9cfd-40c15e73aacc",
+    "a74a7509-8c8d-45b4-99a6-0af43ae8f655",
+    "063ee61b-038a-4614-a41f-a27402133b70",
+    "08350ba6-b536-4c20-99a8-2d0849a09ee4"
+  ],
+  "reason": "{\n  \"error\": {\n    \"message\": \"Invalid prompt: your prompt was flagged as potentially violating our usage policy. Please try again with a different prompt: https://platform.openai.com/docs/guides/reasoning#advice-on-prompting\",\n    \"type\": \"invalid_request_error\",\n    \"param\": null,\n    \"code\": \"invalid_prompt\"\n  }\n}",
+  "review": "Ordinary product feedback; provider did not specify trigger. No claim that rejection is resolved.",
+  "action": "Exclude rejected batch and exact-text duplicates from automated enrichment. Preserve unknown cost reservation and incomplete status; continue other reviews as authorized."
+}

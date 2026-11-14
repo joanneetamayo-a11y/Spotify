@@ -1,0 +1,8 @@
+{
+  "external_originals": 4,
+  "aliases": 87,
+  "scoped_calls": 9243,
+  "supporting_calls": 4,
+  "other_calls": 61,
+  "limitation": "External originals are retained outside the declared sample; the supplied checker cannot resolve them. No provenance or usage was fabricated."
+}

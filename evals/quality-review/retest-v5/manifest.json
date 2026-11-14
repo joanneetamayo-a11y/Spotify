@@ -1,0 +1,20 @@
+{
+  "initial_ledger_usd": 0.505787851,
+  "new_spend_cap_usd": 0.25,
+  "cumulative_limit_usd": 0.751791593,
+  "previous_unresolved_ids": [
+    "fc5334c6-7d79-4440-9d3b-07f85a117e25",
+    "9a338dc4-3b34-4571-a525-f6d9b26ffafd",
+    "a0b606cf-fda8-4d58-b96c-fedcfd96e081",
+    "37e606c6-a8df-459f-81c3-fa03d4ac477e",
+    "7d5d7425-6a62-4e5b-b875-7ad20eb55e40",
+    "b15ca82f-73b8-4d25-833f-eb7b1c5409f7",
+    "ee05d049-31e9-4a11-9ab5-df74078d479c",
+    "e33b89fc-6a72-4e02-8ab8-4f74db568be7",
+    "039894d3-6233-46e7-b030-fc7343d7149a",
+    "78cc67c5-9e88-43fb-bec4-8d729c14179a"
+  ],
+  "input_sha256": "8f852bcd8edf2fc2f2f78a722389463102c7908c5c9e7b7bf8b508e6ea2ac3c7",
+  "code_sha256": "6c7cf3cbd3ca29681f8191425659384be4f2e51b7312df5e0fbd857d395366a6",
+  "started_at": 1792878185.9709241
+}

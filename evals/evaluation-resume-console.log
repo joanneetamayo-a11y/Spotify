@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/Users/joannetamayo/Documents/ChatGPT/Final Assignment_Agentic AI/evals/run_checks.py", line 68, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "/Users/joannetamayo/Documents/ChatGPT/Final Assignment_Agentic AI/evals/run_checks.py", line 18, in main
+    dbpath=ROOT/'data/compact-v2.sqlite';db=connect(dbpath)
+                                            ~~~~~~~^^^^^^^^
+  File "/Users/joannetamayo/Documents/ChatGPT/Final Assignment_Agentic AI/pipeline/core.py", line 26, in connect
+    db=sqlite3.connect(path,timeout=60); db.row_factory=sqlite3.Row
+sqlite3.OperationalError: disk I/O error

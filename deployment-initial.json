@@ -1,0 +1,9 @@
+{
+  "status": "succeeded",
+  "url": "https://spotify-review-evidence-joanne.joanne-e-tamayo.chatgpt.site",
+  "project_id": "appgprj_6ad8242f523c819188c51e8e3ee24ce0",
+  "deployment_id": "appgdep_6ad829cdf504819199caa024050f6d0e",
+  "commit_sha": "8f187eabca90b1769eb119d130d867a474ac8f2f",
+  "access": "owner-private",
+  "verified": "Native Sites deployment succeeded; local UI/backend verified; production sign-in gate verified; authenticated production page awaits owner sign-in"
+}

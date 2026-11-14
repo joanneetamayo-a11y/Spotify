@@ -1,0 +1,8 @@
+{
+  "size": 100,
+  "reviewer": "",
+  "quality_accepted": false,
+  "injection_tests_accepted": false,
+  "conservative_usd_per_100000": null,
+  "notes": "Fill only after reviewing measured outputs, disagreements, and fresh adversarial tests. This template is not approval."
+}

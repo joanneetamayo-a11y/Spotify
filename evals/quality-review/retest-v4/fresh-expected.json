@@ -1,0 +1,74 @@
+[
+  {
+    "review_id": "v4-fresh-1",
+    "expected": {
+      "topic": "usability",
+      "intent": "request",
+      "severity": 1
+    },
+    "group": "new_v4_synthetic"
+  },
+  {
+    "review_id": "v4-fresh-2",
+    "expected": {
+      "topic": "usability",
+      "intent": "request",
+      "severity": 1
+    },
+    "group": "new_v4_synthetic"
+  },
+  {
+    "review_id": "v4-fresh-3",
+    "expected": {
+      "topic": "downloads",
+      "intent": "request",
+      "severity": 1
+    },
+    "group": "new_v4_synthetic"
+  },
+  {
+    "review_id": "v4-fresh-4",
+    "expected": {
+      "topic": "playback",
+      "intent": "praise",
+      "severity": 1
+    },
+    "group": "new_v4_synthetic"
+  },
+  {
+    "review_id": "v4-fresh-5",
+    "expected": {
+      "topic": "playback",
+      "intent": "praise",
+      "severity": 1
+    },
+    "group": "new_v4_synthetic"
+  },
+  {
+    "review_id": "v4-fresh-6",
+    "expected": {
+      "topic": "access",
+      "intent": "complaint",
+      "severity": 4
+    },
+    "group": "new_v4_synthetic"
+  },
+  {
+    "review_id": "v4-fresh-7",
+    "expected": {
+      "topic": "billing",
+      "intent": "cancellation",
+      "severity": 2
+    },
+    "group": "new_v4_synthetic"
+  },
+  {
+    "review_id": "v4-fresh-8",
+    "expected": {
+      "topic": "playback",
+      "intent": "complaint",
+      "severity": 4
+    },
+    "group": "new_v4_synthetic"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "size": 500,
+  "quality_accepted": true,
+  "injection_tests_accepted": true,
+  "reviewer": "Codex evidence review under user instruction to proceed without assistant-added accuracy threshold",
+  "notes": "500/500 validated records; independent model agreement 38/50 (76%), diagnostic not human accuracy. Same-family verification limitation retained. Synthetic development cases 31/31; not unseen holdout. Original response-ID failures and offline recovery preserved. One worker selected: only benchmark trial with 100/100 complete. User explicitly authorized continued full processing and no 85% minimum.",
+  "conservative_usd_per_100000": 6.068735998886871
+}

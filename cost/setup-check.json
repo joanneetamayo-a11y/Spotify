@@ -1,0 +1,11 @@
+{
+  "checked_on": "2026-10-23",
+  "openai_key": "authenticated_read_only_model_lookup",
+  "typesafe_key": "authenticated_read_only_model_lookup",
+  "secrets_logged": false,
+  "tls_verification": "enabled_using_system_CA_bundle",
+  "pilot_command": "python3 -B cost/pilot.py --execute-paid --budget 1 --config config.jev-pilot.json --db data/pilot.sqlite",
+  "pilot_budget_usd": 1,
+  "pilot_database": "data/pilot.sqlite",
+  "paid_status": "100-review pilot completed after recovery; warm run complete; scaling blocked by quality and conservative cost gates"
+}

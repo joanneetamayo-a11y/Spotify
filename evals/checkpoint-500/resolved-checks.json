@@ -1,0 +1,8 @@
+{
+  "source_count": 500,
+  "completed": 500,
+  "unique_ids": 500,
+  "quotes_exact": true,
+  "adjudication_call_provenance": true,
+  "scope": "mechanical checkpoint checks, not semantic accuracy"
+}

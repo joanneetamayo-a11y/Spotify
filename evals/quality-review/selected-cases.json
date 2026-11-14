@@ -1,0 +1,170 @@
+[
+  {
+    "review_id": "5e65d15f-d429-4c93-9a6a-ba73971aa2ca",
+    "review_text": "Nice songs in this app be like to this app",
+    "primary": {
+      "topic": "other",
+      "intent": "praise",
+      "severity": 1
+    },
+    "verifier": {
+      "topic": "catalog",
+      "intent": "praise",
+      "severity": 1
+    }
+  },
+  {
+    "review_id": "4e91559b-390a-49ea-b9b4-f8f8dd290076",
+    "review_text": "It's unusable without premium",
+    "primary": {
+      "topic": "billing",
+      "intent": "complaint",
+      "severity": 4
+    },
+    "verifier": {
+      "topic": "billing",
+      "intent": "complaint",
+      "severity": 3
+    }
+  },
+  {
+    "review_id": "80c73f29-144c-4d8d-92e5-6a9a0a27e86f",
+    "review_text": "Cool",
+    "primary": {
+      "topic": "other",
+      "intent": "unclear",
+      "severity": 1
+    },
+    "verifier": {
+      "topic": "other",
+      "intent": "praise",
+      "severity": 1
+    }
+  },
+  {
+    "review_id": "09969f31-6ea1-4d6f-b80f-33ddfef709f4",
+    "review_text": "Way too many ads now, I get more ads than songs. Looking for a new music streaming app.",
+    "primary": {
+      "topic": "usability",
+      "intent": "complaint",
+      "severity": 2
+    },
+    "verifier": {
+      "topic": "usability",
+      "intent": "cancellation",
+      "severity": 2
+    }
+  },
+  {
+    "review_id": "8f647d34-f4dd-459d-b7e6-4df35af35f5e",
+    "review_text": "Don't need premium to pay sings in order when I got a Playstation. :3",
+    "primary": {
+      "topic": "usability",
+      "intent": "praise",
+      "severity": 1
+    },
+    "verifier": {
+      "topic": "billing",
+      "intent": "complaint",
+      "severity": 2
+    }
+  },
+  {
+    "review_id": "8e73c6d1-c85f-406a-8a15-6874b46426ab",
+    "review_text": "Very worst experience, it's like that you can't even listen your favorite songs and what is the shuffle feature , i am not happy from this update",
+    "primary": {
+      "topic": "usability",
+      "intent": "complaint",
+      "severity": 3
+    },
+    "verifier": {
+      "topic": "playback",
+      "intent": "complaint",
+      "severity": 4
+    }
+  },
+  {
+    "review_id": "6a84e8ea-1bd1-4d84-8125-d76586688218",
+    "review_text": "Bloated, unorganized, and a data-hog. Features like playlists and favorite artists are cumbersome to navigate and inconsistent.",
+    "primary": {
+      "topic": "usability",
+      "intent": "complaint",
+      "severity": 2
+    },
+    "verifier": {
+      "topic": "usability",
+      "intent": "complaint",
+      "severity": 3
+    }
+  },
+  {
+    "review_id": "302a3d09-cc5e-4bca-8a6f-06678b98e6f4",
+    "review_text": "I love spotify and I've been using premium for a while; but currently it's difficult to subscribe for another premium package. Please help.",
+    "primary": {
+      "topic": "billing",
+      "intent": "complaint",
+      "severity": 1
+    },
+    "verifier": {
+      "topic": "billing",
+      "intent": "complaint",
+      "severity": 3
+    }
+  },
+  {
+    "review_id": "a7506447-33c1-4eef-a99b-7835d5e9bf27",
+    "review_text": "All features are enabled after buying Spotify premium 😐😕",
+    "primary": {
+      "topic": "billing",
+      "intent": "complaint",
+      "severity": 1
+    },
+    "verifier": {
+      "topic": "billing",
+      "intent": "complaint",
+      "severity": 2
+    }
+  },
+  {
+    "review_id": "597a5a2f-9b20-490d-a970-e7b89193ad8e",
+    "review_text": "It good to listen music online",
+    "primary": {
+      "topic": "other",
+      "intent": "praise",
+      "severity": 1
+    },
+    "verifier": {
+      "topic": "playback",
+      "intent": "praise",
+      "severity": 1
+    }
+  },
+  {
+    "review_id": "ba339d8b-265e-462e-90b1-f1fe65a6c7cb",
+    "review_text": "Keeps adding songs",
+    "primary": {
+      "topic": "usability",
+      "intent": "unclear",
+      "severity": 1
+    },
+    "verifier": {
+      "topic": "other",
+      "intent": "complaint",
+      "severity": 2
+    }
+  },
+  {
+    "review_id": "dd00a5cb-2ae2-4ef8-be16-13e12e55a625",
+    "review_text": "Palestain jida baad ❤️",
+    "primary": {
+      "topic": "other",
+      "intent": "cancellation",
+      "severity": 1
+    },
+    "verifier": {
+      "topic": "other",
+      "intent": "unclear",
+      "severity": 1
+    }
+  }
+]

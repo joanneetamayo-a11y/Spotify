@@ -1,0 +1,7 @@
+{
+  "previous_assistant_guard": 0.85,
+  "assignment_minimum": null,
+  "user_instruction": "If 85% is not required, move forward",
+  "policy": "Actual verification agreement is reported, never changed to passing accuracy. Continue measured 100/500/10000 checkpoints, source/schema checks, injection tests, rate/spend limits and full-corpus coverage requirements.",
+  "updated_at": 1792878707.3470669
+}

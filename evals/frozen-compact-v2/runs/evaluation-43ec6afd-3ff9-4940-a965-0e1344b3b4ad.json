@@ -1,0 +1,11 @@
+{
+  "run_id": "evaluation-43ec6afd-3ff9-4940-a965-0e1344b3b4ad",
+  "seconds": 7.851941750035621,
+  "completed": 23,
+  "new_completed": 23,
+  "error": "ValueError: Severity inconsistent with intent",
+  "evaluation_api_subtotal_usd": 0.001119006,
+  "unresolved_calls": 0,
+  "cumulative_experiment_spent_plus_reserved": 0.00791466,
+  "budget_usd": 0.05
+}

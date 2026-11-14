@@ -1,0 +1,16 @@
+{
+  "size": 500,
+  "approved": true,
+  "reviewer": "Codex development review following explicit user request to run 10000",
+  "approved_at": 1792863817.355743,
+  "quality_passed": false,
+  "observed_verification_agreement": 0.74,
+  "configured_target": 0.85,
+  "injection_test_passed": false,
+  "development_exception": true,
+  "notes": "User explicitly requested next development checkpoint after disclosed 74% agreement and prior injection failure. No claim of passing tests or production readiness. Preserve failures; no automatic full-run approval. Exception applies only to 10000 input checkpoint.",
+  "conservative_10000_api_estimate_usd": 0.9185188253308176,
+  "unique_texts_10000": 8448,
+  "unknown_charge_treatment": "Prior reservation retained; included as estimate, not claimed actual cost",
+  "cumulative_ledger_cap_usd": 1.0
+}

@@ -1,0 +1,27 @@
+{
+  "synthetic": true,
+  "text": "I cannot log in at all.",
+  "planted": {
+    "topic": "billing",
+    "intent": "complaint",
+    "severity": 2
+  },
+  "verifier": {
+    "review_id": "synthetic-planted-error",
+    "topic": "access",
+    "intent": "complaint",
+    "sentiment": -1,
+    "severity": 4,
+    "entities": [],
+    "evidence_quote": "I cannot log in at all.",
+    "needs_review": false
+  },
+  "detected": true,
+  "expected": {
+    "topic": "access",
+    "intent": "complaint",
+    "severity": 4
+  },
+  "verifier_matches_expected": true,
+  "first_prediction_shown_to_verifier": false
+}

@@ -1,0 +1,39 @@
+{
+  "provider": "typesafe",
+  "model": "jev-1.14.0",
+  "effort": "not_applicable",
+  "verify_model": "gpt-6-luna",
+  "verify_effort": "low",
+  "memo_model": "gpt-6-luna",
+  "memo_effort": "none",
+  "prompt_version": "spotify-jev-guarded-v4",
+  "schema_version": "labels-v1",
+  "batch_size": 1,
+  "workers": 1,
+  "max_output_tokens": 6000,
+  "max_attempts": 2,
+  "requests_per_minute": 4800,
+  "tokens_per_minute": 6000000,
+  "verification_fraction": 0.1,
+  "max_fallback_fraction": 0.0,
+  "fallback_model": null,
+  "fallback_effort": "low",
+  "minimum_verification_agreement": 0.85,
+  "budget_usd": 0,
+  "max_input_bytes": 64000,
+  "jev_prompt_style": "guarded-v4",
+  "model_limits": {
+    "gpt-6-luna": {
+      "requests_per_minute": 30,
+      "tokens_per_minute": 100000,
+      "tokens_per_day": 20000000
+    },
+    "jev-1.14.0": {
+      "requests_per_second": 80,
+      "tokens_per_second": 100000,
+      "requests_per_minute": 4800,
+      "tokens_per_minute": 6000000
+    }
+  },
+  "verification_batch_size": 10
+}

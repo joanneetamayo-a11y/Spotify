@@ -1,0 +1,14 @@
+{
+  "size": 100,
+  "approved": true,
+  "development_only": true,
+  "allowed_next_rows": 500,
+  "reviewer": "Assistant diagnostic review under user authorization to complete pipeline",
+  "verification_agreement": 0.8,
+  "configured_guard": 0.85,
+  "quality_gate_passed": false,
+  "injection_tests": "31/31 synthetic development cases",
+  "conservative_usd_per_100000": 5.157120950515122,
+  "notes": "Explicit exception for measuring 500 only, not production approval. User authorized full dataset but prerequisite evidence remains incomplete. Record 8/10 same-family verification honestly; do not lower configured 85% guard.",
+  "approved_at": 1792878586.47734
+}

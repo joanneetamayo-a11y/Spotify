@@ -1,0 +1,2003 @@
+[
+  {
+    "alias_id": "710e1aee-ed80-4753-9c4e-c63bee84fd56",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "8454aa1e-ceb7-4676-adf7-e20f6989f5c9",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "ff837c31-b7f4-4450-8e5c-e5842776f3bb",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "e79310b8-a9d6-4765-9652-ee0c87c951b5",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "3a186a32-f896-4268-8704-4ef7a6bfc327",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "c42bcd17-bd98-4cbe-9f8e-dccd0d34b1f7",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "3fc12f68-24a7-420b-be39-7dd1e3977cca",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "4ffaa225-4852-47a4-bf28-cfc8824f77ea",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "714e1f9c-0f92-4884-ad57-4d732c6fedb4",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "be2d809f-b63b-4b2c-8c67-449a83a6d900",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "1a974aa2-e36d-4703-bdf2-3ff92317e6cf",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "ed7d81e7-b450-43e7-bfa0-1b6cad9a63bf",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "c3d9793c-a161-4391-881e-5514aed5f950",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "b15f2690-df51-4790-b75c-8a63dc527ee5",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "966ab799-e4eb-43c4-9a86-380623ad3547",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "bd3caec7-1f71-46cf-bc08-50eef6e8fe52",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "ed678243-fe54-45a0-a10f-ff054f599e5d",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "e0440407-52b7-42bb-ada3-fc7b4e7f4c72",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "adf261a0-e004-4ac5-841a-7436683463cf",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "cfc83148-28d7-4695-a6fa-71aeb330e127",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "17cc17c4-ae75-43a9-9627-80fef78e90b3",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "c1421321-951d-4b97-aae1-af0acd3c3120",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "c2b060a0-4489-480f-b9a5-c3efc3d6d713",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "fc1f0a68-e6e5-4edc-95c7-9f17fd4429f0",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "56cd07e6-e573-4ca9-a79d-9d262b30fbb7",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "6a303a7d-fbb4-4d3a-b75b-19477e05d75b",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "6cac8dd0-183c-4133-9882-e3269efd0cd5",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "b2d61b98-ccb4-4c48-b634-dc9e39b35e2a",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "96d5266a-60db-4938-a1f4-0861948881f7",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "895e9f1a-1ff7-4f48-b3ce-513ef2eabcd5",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "2fb36f34-d94c-4ee3-a06e-cdb90d10901d",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "61048719-77cc-4cde-9ab0-8ae3e1ef0aa8",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "8f12c0b1-a987-4512-9fe9-a87ad75d3391",
+    "original_id": "89ea724c-358f-48ab-9516-cd130d21c471",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "ba15626f5c21512ab211888f57a484bb739c7e77dc8b175b0faf8b2db5869899",
+    "source": {
+      "app_version": "",
+      "review_id": "89ea724c-358f-48ab-9516-cd130d21c471",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Good app!",
+      "review_timestamp": "2022-08-08 12:41:08"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Good app!",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "814d4c53-2b70-4981-94c9-885702f128c1",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "2447c732-b80d-468b-b10b-fee5a64ff2fe",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "0682bcf1-d9ab-4fe2-87fb-57e62db4818d",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "f060c32d-0bf6-45b3-8499-6ec39f342419",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "00855fbe-885c-4842-93e8-65ba8359b336",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "91e9745e-299f-45ab-853d-d0e34d88f383",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "d4feb0a8-5d61-41ec-8474-7e49d10bbefb",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "6c36cfa4-ab23-4249-828e-d7c46ceb142c",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "9fc6cb7d-4629-46d2-b3ea-a48f963d9d65",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "b5c99296-56ef-4bc3-9848-1ee2510937f9",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "930b9706-0b3b-4ba2-b44d-7d312fa8e5a6",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "0a6f96b5-5b37-4ef6-967f-95fef25cf8be",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "08ff8ce0-05a0-4193-862f-c9f8521cf8d8",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "b52c1622-ef62-4012-90ce-e5fe480aa055",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "2707f104-875c-49d9-ab02-b5095f119cfe",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "6b73bb10-7cd3-4578-bf14-058825828019",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "db189674-8ac7-4535-acc2-9f5bc3e605d8",
+    "original_id": "a972945c-6601-4108-882a-afe986866a7b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "8b4ed38dcfc902b7a72c0ac795b9f664b52bae3f87653f104e8941f8a5989fa6",
+    "source": {
+      "app_version": "8.8.80.599",
+      "review_id": "a972945c-6601-4108-882a-afe986866a7b",
+      "review_likes": "0",
+      "review_rating": "4",
+      "review_text": "Phenomenal",
+      "review_timestamp": "2023-10-30 17:47:51"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Phenomenal",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "4b346f87-3ff7-4fef-ba98-efe76e6fd34d",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "6ab43ca0-0fc0-4965-b13b-d2ccb1f87abf",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "23ce8d2f-f792-4f67-bf92-9d18e6c1525f",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "bc91df50-bccc-406e-938a-c0be009e7ff3",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "c9363ed3-4e70-44c8-bec1-b907c2bc1e57",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "dd9659b9-9975-4a14-b922-7799b79ee134",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "f1482b60-d703-4b11-86e6-9e5b29e24edb",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "52532831-083a-4980-9a10-fed91324f702",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "da90d26b-1609-4817-a023-7d42442871b9",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "225b1b0b-5b80-4ffe-b16e-8c5ae45b2e7f",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "b769f95c-4666-4652-8ee9-bcebbcb3d42e",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "6f1076fc-bdce-4245-b0c9-53f49718be0c",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "1a09c24e-bb03-4833-90d5-198e7cb32aa9",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "dce95a5c-6672-4d09-a822-8a0ad597aa78",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "40309bfa-4152-42e8-8d71-f36775078f4d",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "c1794b40-2098-4642-922a-77313b4e0c0a",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "9e5503cc-e856-4f0c-a450-d5bc6381adfb",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "d17d70cb-d49e-40d2-b347-c864b92dafcf",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "827be9aa-cc3a-4809-9843-66f924e43df4",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "128c09f0-cc15-4bba-8ce4-096387f55cc9",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "335496f1-530d-4b8d-a8cf-8ff6aa784add",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "44b3ee71-06f0-418f-83f8-0466e7951527",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "3d67a963-f5a6-4b39-a88a-7fbffc8b9078",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "5f511b00-ef5d-40d4-ac5d-34dcace1081a",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "7235c875-6c75-4b39-8171-20a5c439030c",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "2404e1d2-95f9-4c99-baf7-b95046dc03bc",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "0d5e6c1c-11b0-42b9-94b2-6e00709b1d75",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "4933187e-29cd-41d4-9f47-a416533f2126",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "38d713ba-aefd-490a-b63f-e871a7175ebe",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "0f95fd37-bc91-4702-9f9c-f30b9f126272",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "790381dc-975d-4a2d-9505-2e40ac02593f",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "fab5a469-f55e-4c38-ac18-2eeb4de36f29",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "d6f8b8c5-a33c-461c-9712-88859240cad6",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "f63162f5-4ad3-4f2c-83af-9dbe67395f56",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "39f3e661-30ac-4691-99a4-bed8b1f89829",
+    "original_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "fb41c0598aca37030a497e1cd8aa4a7e7fc968ee0d78d1cc6f09cd388c6bfe93",
+    "source": {
+      "app_version": "",
+      "review_id": "6112667b-3d71-475c-b1a4-159b87f73d2b",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Super",
+      "review_timestamp": "2022-05-31 10:50:59"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Super",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "d3e69f9a-03c5-4564-93d6-458f2b4a801e",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  },
+  {
+    "alias_id": "51ed0feb-eb3a-46a7-82f6-f22734777171",
+    "original_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+    "label_config": "f067a6c721e4589a69a9fab631e35533765e88737694f3a6b31a0dfcf5d7194a",
+    "source_sha256": "d36527139f24c50bfe9a525b2cf82827d492f9db1121c72a011064bb305c5fc9",
+    "source": {
+      "app_version": "8.7.78.373",
+      "review_id": "111f9048-f7bd-4be0-813e-76b8fc49f73f",
+      "review_likes": "0",
+      "review_rating": "5",
+      "review_text": "Excellent",
+      "review_timestamp": "2022-11-13 18:52:23"
+    },
+    "classification": {
+      "entities": [],
+      "evidence_quote": "Excellent",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 1.0,
+      "severity": 1,
+      "topic": "other"
+    }
+  }
+]

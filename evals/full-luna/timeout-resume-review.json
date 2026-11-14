@@ -1,0 +1,25 @@
+{
+  "decision": "User requested resume after four timeouts; retain all unknown charges and reservations, unchanged retry limit, cap 66.06, policy holds unchanged",
+  "calls": [
+    {
+      "request_id": "85aa49c0-5626-43b0-8c93-358662ede541",
+      "reserved_usd": 0.00373625,
+      "error": "<urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "request_id": "9240f328-a37e-44f5-a561-00abcc74fcb4",
+      "reserved_usd": 0.003767625,
+      "error": "<urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "request_id": "e700511c-916c-40aa-84a9-733dfc74c78d",
+      "reserved_usd": 0.00375225,
+      "error": "<urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "request_id": "2f997b2e-6dc2-46fd-9db9-a3ec6def7207",
+      "reserved_usd": 0.00369975,
+      "error": "<urlopen error [Errno 60] Operation timed out>"
+    }
+  ]
+}

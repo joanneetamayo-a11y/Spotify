@@ -1,0 +1,260 @@
+{
+  "audit_script_sha256": "d60bd66d84922d934c65b3d42b2c7d36cc738e8c75e2d6f2b2f58bca3141c26d",
+  "audit_version": "a5-audit-v1",
+  "automatic_grade": null,
+  "calculated_ranking": [
+    {
+      "complaint_count": 1465,
+      "issue_id": "usability",
+      "mean_severity": "2.582253",
+      "priority_score": 3783,
+      "rank": 1,
+      "severity_sum": 3783
+    },
+    {
+      "complaint_count": 1249,
+      "issue_id": "other",
+      "mean_severity": "2.007206",
+      "priority_score": 2507,
+      "rank": 2,
+      "severity_sum": 2507
+    },
+    {
+      "complaint_count": 618,
+      "issue_id": "playback",
+      "mean_severity": "3.252427",
+      "priority_score": 2010,
+      "rank": 3,
+      "severity_sum": 2010
+    },
+    {
+      "complaint_count": 621,
+      "issue_id": "billing",
+      "mean_severity": "2.711755",
+      "priority_score": 1684,
+      "rank": 4,
+      "severity_sum": 1684
+    },
+    {
+      "complaint_count": 268,
+      "issue_id": "catalog",
+      "mean_severity": "2.835821",
+      "priority_score": 760,
+      "rank": 5,
+      "severity_sum": 760
+    },
+    {
+      "complaint_count": 148,
+      "issue_id": "access",
+      "mean_severity": "3.756757",
+      "priority_score": 556,
+      "rank": 6,
+      "severity_sum": 556
+    },
+    {
+      "complaint_count": 107,
+      "issue_id": "downloads",
+      "mean_severity": "3.186916",
+      "priority_score": 341,
+      "rank": 7,
+      "severity_sum": 341
+    },
+    {
+      "complaint_count": 8,
+      "issue_id": "support",
+      "mean_severity": "2.625000",
+      "priority_score": 21,
+      "rank": 8,
+      "severity_sum": 21
+    }
+  ],
+  "coverage": {
+    "accounted_fraction": 1.0,
+    "duplicate_ids": 0,
+    "expected": 10000,
+    "invalid_or_unresolved": 0,
+    "labelable": 10000,
+    "labelable_completion_fraction": 1.0,
+    "missing": 0,
+    "quarantined": 0,
+    "received_lines": 10000,
+    "unique_expected_ids": 10000,
+    "valid_cache_reuses": 1549,
+    "valid_completed": 10000,
+    "valid_completion_fraction": 1.0
+  },
+  "examples": [
+    {
+      "code": "unreadable_file",
+      "detail": "ingestion.json: [Errno 2] No such file or directory: 'evals/checkpoint-10000-luna/grading/ingestion.json'"
+    },
+    {
+      "code": "ingestion_mismatch",
+      "detail": "Full-file parsed digest, file hash, counts, dates or distributions differ."
+    },
+    {
+      "code": "resume_snapshot_mismatch",
+      "detail": "Need a nonempty checkpoint and additional completed IDs after resume."
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "084077ee-f9be-446a-9935-9e58550d5153"
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "ff14ea84-fdec-4363-9b1b-a23dcab287c5"
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "dc73ecd9-3293-4ede-90d5-dd6cd1e8d087"
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "a78d831a-69f4-428a-9235-cfdd9775c509"
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "d146397f-4a94-4980-be00-ae9212eca3a7"
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "4c0242ca-099a-4c89-b11b-219ef28f1e16"
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "42f0c9d1-088c-437b-bfc8-c1c36114a8f0"
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "5bc203df-dac3-41ae-8b8d-ee0e8b9d9f50"
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "b39971d2-e3f0-4559-96da-a609f54d9cb4"
+    },
+    {
+      "code": "call_config_mismatch",
+      "detail": "797d12c7-78dd-4805-a066-342ace701805"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "fc5334c6-7d79-4440-9d3b-07f85a117e25"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "fc5334c6-7d79-4440-9d3b-07f85a117e25"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "9a338dc4-3b34-4571-a525-f6d9b26ffafd"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "9a338dc4-3b34-4571-a525-f6d9b26ffafd"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "a0b606cf-fda8-4d58-b96c-fedcfd96e081"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "a0b606cf-fda8-4d58-b96c-fedcfd96e081"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "37e606c6-a8df-459f-81c3-fa03d4ac477e"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "37e606c6-a8df-459f-81c3-fa03d4ac477e"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "7d5d7425-6a62-4e5b-b875-7ad20eb55e40"
+    },
+    {
+      "code": "invalid_usage",
+      "detail": "7d5d7425-6a62-4e5b-b875-7ad20eb55e40"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "ebfdd0f0-6214-404f-b910-336df52f9829"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "e63ff8d4-e071-47ab-bbbb-73b58e374aed"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "8eefa56d-dbd3-4dd0-a262-d270b97dc725"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "52acf3b5-943b-4549-927d-1acbe24bd642"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "2994a954-cc11-4e01-b12d-d21453e2fd77"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "033f14e4-c24f-4626-a846-fe50eaf7e236"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "49a9bb18-ee54-4b6b-ae25-8e3e86812f5b"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "663600d0-9476-4fbd-a717-b7b2adfd926e"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "78058228-c994-4429-ae92-1270e976a2c1"
+    },
+    {
+      "code": "invalid_call_role",
+      "detail": "03d65701-63aa-42ed-91f0-a933dee72aec"
+    },
+    {
+      "code": "unlogged_completed_records",
+      "detail": "123"
+    }
+  ],
+  "hash_convention": "Reference/benchmark: canonical UTF-8 JSON via canonical(); input files and audit script: exact bytes.",
+  "input_files_sha256": {
+    "calls.jsonl": "2728bf211752cf96b70620691af3423331c16892545015d7891ed5080d8196be",
+    "checkpoint_after.json": "14e553cee545c35887608fbd2518a95a0a202c95883d2b7874702555d70abe1f",
+    "checkpoint_before.json": "4bb08f985e74d240f7705f67f79f49c4084ff5a8f36afd140123136f9b3f3af3",
+    "claims.csv": "97635172916be3492fef0d3f4f60f102c8703c6a145885a5b01f542e4d521464",
+    "membership.csv": "3b24892272ac46c27f68b3a0dc722b9f4777f72a0c3578a4c1cb32095fef4c38",
+    "ranking.csv": "f61ee9a249efcfa48d3bf0eca8765fad7211b972f8d70e62aa55ae848a9114a1",
+    "records.jsonl": "fd10151cee9d4f15c9d9c2c333ae361973dcf64005a343942b369992d805ed75",
+    "run.json": "4ea9903dfee0aaece20c248135d3dde181d7656414d17eef49b5feff125fdfa1"
+  },
+  "issue_counts": {
+    "call_config_mismatch": 8945,
+    "ingestion_mismatch": 1,
+    "invalid_call_role": 123,
+    "invalid_usage": 22,
+    "resume_snapshot_mismatch": 1,
+    "unlogged_completed_records": 1,
+    "unreadable_file": 1
+  },
+  "limits": [
+    "Artifacts do not prove actual model execution, authorship, cost, or independent verification.",
+    "Exact quote membership does not prove that the quote supports the label.",
+    "Claims export checks numbers; a person must check that all memo claims are represented.",
+    "Benchmark agreement is diagnostic; final 4/3/3 grades require rubric review."
+  ],
+  "quality": {
+    "official": false,
+    "status": "not_supplied"
+  },
+  "reference_sha256": "a2b043980cedf8a6880c7fdaba8c3d8aab3101235cc5046426a12df5ee1dfccb",
+  "reported_calls": 10500,
+  "reported_input_tokens": 11305620,
+  "reported_output_tokens": 3232172,
+  "status": "review_required",
+  "working_coverage_point_candidate": 0.8
+}

@@ -1,0 +1,109 @@
+{
+  "recommendations": [
+    {
+      "action": "Review recent interface and feature changes, and investigate reports of missing playlists, unavailable features, and intrusive advertising.",
+      "claim_ids": [
+        "usability.priority_score",
+        "usability.complaint_count",
+        "usability.mean_severity"
+      ],
+      "issue_id": "usability",
+      "rationale": "This issue has the highest aggregate priority score, and the examples describe disruption to playlist access and app use.",
+      "review_ids": [
+        "d87536c5-6fe0-4b38-b0b1-c47936e4a0d8",
+        "384008ad-eb79-4525-a794-b0b67f7fb3f5",
+        "6eb64519-37d4-4591-a47a-bbb96357de36"
+      ]
+    },
+    {
+      "action": "Triage the varied reports by identifying recurring themes, including update-related feature changes, limited music previews, and unwanted automatic app launches.",
+      "claim_ids": [
+        "other.complaint_count",
+        "other.priority_score",
+        "other.mean_severity"
+      ],
+      "issue_id": "other",
+      "rationale": "This issue has the largest complaint count, while the supplied examples point to several distinct kinds of problems that may need separate investigation.",
+      "review_ids": [
+        "02777996-211f-447b-94c4-99b61f049f78",
+        "4d327494-7846-481a-bf00-f4b5abc099c4",
+        "8cd35162-9223-42d1-8097-06e22fde94ea"
+      ]
+    },
+    {
+      "action": "Investigate playback interruptions, black screens, and recurring failures to start playlists; validate fixes across app restarts and reinstalls.",
+      "claim_ids": [
+        "playback.mean_severity",
+        "playback.priority_score",
+        "playback.complaint_count"
+      ],
+      "issue_id": "playback",
+      "rationale": "Playback has a high mean severity, and the examples describe repeated interruption or failure to play.",
+      "review_ids": [
+        "039112fc-bbed-4540-83cc-890fcb129751",
+        "065c418e-7f18-42a3-b241-fe693b7a2b0c",
+        "06d4c78d-73b4-4b54-9ef3-3d5a0d18cb96"
+      ]
+    },
+    {
+      "action": "Review subscription-state handling and the purchase flow, including cases where paid access is not recognized or the purchase screen is blank.",
+      "claim_ids": [
+        "billing.priority_score",
+        "billing.complaint_count",
+        "billing.mean_severity"
+      ],
+      "issue_id": "billing",
+      "rationale": "The reports describe barriers to accessing music after payment and difficulties completing a subscription purchase.",
+      "review_ids": [
+        "16929558-ce1e-4b87-8738-a1de3f557f66",
+        "398566f7-2519-40e6-a2f4-6676657a18a7",
+        "074efbfd-f69e-46ca-9cea-e5204a192a2a"
+      ]
+    },
+    {
+      "action": "Audit catalog availability and communicate clearly when requested songs are unavailable or removed.",
+      "claim_ids": [
+        "catalog.priority_score",
+        "catalog.complaint_count",
+        "catalog.mean_severity"
+      ],
+      "issue_id": "catalog",
+      "rationale": "The examples repeatedly mention missing or removed songs, including specific catalog gaps.",
+      "review_ids": [
+        "3df77a78-ad9a-4456-8be8-8178ffd43d67",
+        "0658feaa-5bec-416e-b6b0-3de2a4c14580",
+        "4b3ace8e-b199-40b3-8ad4-5c0580e38203"
+      ]
+    },
+    {
+      "action": "Investigate login failures and misleading connectivity errors, and review the account recovery path.",
+      "claim_ids": [
+        "access.mean_severity",
+        "access.priority_score",
+        "access.complaint_count"
+      ],
+      "issue_id": "access",
+      "rationale": "The examples describe users being unable to access their accounts despite having internet access or being able to log in elsewhere.",
+      "review_ids": [
+        "0a7f2420-1b49-41fa-8cfc-0b2e178bea6b",
+        "12efd15d-4d4f-4a71-8e71-69d03b6f983a",
+        "32fb340f-4f9f-4551-8dae-755221e58d6a"
+      ]
+    },
+    {
+      "action": "Investigate offline downloads disappearing, storage migration failures, and offline access reliability; review metered-network behavior as part of the same workstream.",
+      "claim_ids": [
+        "downloads.mean_severity",
+        "downloads.priority_score",
+        "downloads.complaint_count"
+      ],
+      "issue_id": "downloads",
+      "rationale": "The examples describe lost downloaded content and failed offline use, including while users are out of data range.",
+      "review_ids": [
+        "b03d6dc9-449a-4647-b112-559186656759",
+        "1f13c3a2-e57b-460c-b569-964e6b2b1f31",
+        "5be3399d-dcd2-405b-a931-29b02ffc966e"
+      ]
+    }
+  ]
+}

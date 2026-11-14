@@ -1,0 +1,124 @@
+{
+  "recommendations": [
+    {
+      "action": "Investigate playlist visibility and recovery, and review confusing or inconsistent listening and ad experiences.",
+      "claim_ids": [
+        "usability.priority_score",
+        "usability.complaint_count",
+        "usability.mean_severity"
+      ],
+      "issue_id": "usability",
+      "rationale": "Usability ranks highest by priority score, and the supplied reviews describe playlists disappearing or failing to load alongside ad interruptions.",
+      "review_ids": [
+        "d87536c5-6fe0-4b38-b0b1-c47936e4a0d8",
+        "ee11e1df-cb73-4c3a-b5e8-7268c7872b01",
+        "131c2c68-4e7f-413e-9618-94d032c7ac5d"
+      ]
+    },
+    {
+      "action": "Review privacy controls and third-party access protections, and make data collection and deletion options clear and reliable.",
+      "claim_ids": [
+        "other.priority_score",
+        "other.complaint_count",
+        "other.mean_severity"
+      ],
+      "issue_id": "other",
+      "rationale": "This issue has a high priority score, and the supplied reviews raise concerns about personal information, unwanted activity, and possible third-party access.",
+      "review_ids": [
+        "68a5d92a-1dca-40ba-b9f8-fc61a24b12a8",
+        "74ae4c26-9e3f-475c-ba0e-ed683ca5b88c",
+        "9ec6712e-a862-4605-ae0e-e6998105f921"
+      ]
+    },
+    {
+      "action": "Investigate failures to start or continue playback and improve diagnosis of loading and network-error reports.",
+      "claim_ids": [
+        "playback.priority_score",
+        "playback.complaint_count",
+        "playback.mean_severity"
+      ],
+      "issue_id": "playback",
+      "rationale": "Playback ranks prominently by priority score, and the supplied reviews describe songs not playing, persistent loading, and network errors despite connectivity.",
+      "review_ids": [
+        "a405a67b-b1f3-4e53-a556-2ebb765c21fb",
+        "004d1c8a-a8c8-4746-b975-cd2f31c2a730",
+        "006b8080-637f-497f-893a-e8b2e44f1a0c"
+      ]
+    },
+    {
+      "action": "Review cancellation and subscription-charge handling, including how users can verify cancellation and raise disputed charges.",
+      "claim_ids": [
+        "billing.priority_score",
+        "billing.complaint_count",
+        "billing.mean_severity"
+      ],
+      "issue_id": "billing",
+      "rationale": "Billing has a substantial priority score, and the supplied reviews describe unexpected charges after cancellation or for a subscription another person reportedly did not use.",
+      "review_ids": [
+        "41c0c736-6617-466a-8e4d-3a2b551185e5",
+        "6985febf-75fa-47e9-9a86-c62f47a18554",
+        "70c10706-cb1c-4623-9c21-bf303e1e6ebe"
+      ]
+    },
+    {
+      "action": "Investigate login persistence and mobile-number sign-in, and review recovery options for accounts and saved content.",
+      "claim_ids": [
+        "access.priority_score",
+        "access.complaint_count",
+        "access.mean_severity"
+      ],
+      "issue_id": "access",
+      "rationale": "Access has the highest mean severity among the listed issues, and the supplied reviews report being logged out, difficulty signing in, and lost liked songs.",
+      "review_ids": [
+        "55123d02-711d-4e41-b644-06e2c3c4db18",
+        "04ea0f0c-287d-4b52-a9ab-419bd4e704bf",
+        "07997e14-5059-4fbb-adf8-4959f4b3f8e6"
+      ]
+    },
+    {
+      "action": "Review missing or inaccessible tracks and libraries, and clarify which search and playback features are available across plans.",
+      "claim_ids": [
+        "catalog.priority_score",
+        "catalog.complaint_count",
+        "catalog.mean_severity"
+      ],
+      "issue_id": "catalog",
+      "rationale": "Catalog complaints include reports of missing songs, unavailable playlists, and frustration about access to basic features.",
+      "review_ids": [
+        "8d1bfaf3-2632-42a1-90d0-eb7fd381358a",
+        "056c340f-c7ad-42d8-a275-37e46f1f4f24",
+        "088909d0-cf9b-42b5-9259-e03b6d1cfa47"
+      ]
+    },
+    {
+      "action": "Investigate update and storage-related loss of saved music, and improve the reliability of offline listening and recovery.",
+      "claim_ids": [
+        "downloads.priority_score",
+        "downloads.complaint_count",
+        "downloads.mean_severity"
+      ],
+      "issue_id": "downloads",
+      "rationale": "The supplied reviews describe removed downloads, failed storage moves, and offline mode problems.",
+      "review_ids": [
+        "616fa96d-6e23-4527-b4a4-71d669eaac25",
+        "b03d6dc9-449a-4647-b112-559186656759",
+        "c5fb27a7-c193-46f0-b574-3bc119547554"
+      ]
+    },
+    {
+      "action": "Review support paths for unresolved technical problems and clarify available remedies when service is unavailable.",
+      "claim_ids": [
+        "support.priority_score",
+        "support.complaint_count",
+        "support.mean_severity"
+      ],
+      "issue_id": "support",
+      "rationale": "The supplied reviews describe prolonged access problems and difficulty obtaining help or remedies for technical issues.",
+      "review_ids": [
+        "234c3025-5566-4d2c-abb9-0bf65f2a71cf",
+        "5782aeec-f1e0-4730-a0c4-51ba54303b27",
+        "9e6ceb1f-6757-4883-a912-a4607e6e180f"
+      ]
+    }
+  ]
+}

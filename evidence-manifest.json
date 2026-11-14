@@ -1,0 +1,308 @@
+{
+  "archive_sha256": "ff649801158860dbaccfe95ade4e4913457bd8b1a13d034e4511b2de3a881545",
+  "parts": [
+    "evidence/archive.tar.xz.part0000",
+    "evidence/archive.tar.xz.part0001",
+    "evidence/archive.tar.xz.part0002",
+    "evidence/archive.tar.xz.part0003",
+    "evidence/archive.tar.xz.part0004",
+    "evidence/archive.tar.xz.part0005",
+    "evidence/archive.tar.xz.part0006",
+    "evidence/archive.tar.xz.part0007",
+    "evidence/archive.tar.xz.part0008",
+    "evidence/archive.tar.xz.part0009",
+    "evidence/archive.tar.xz.part0010",
+    "evidence/archive.tar.xz.part0011",
+    "evidence/archive.tar.xz.part0012",
+    "evidence/archive.tar.xz.part0013",
+    "evidence/archive.tar.xz.part0014",
+    "evidence/archive.tar.xz.part0015",
+    "evidence/archive.tar.xz.part0016",
+    "evidence/archive.tar.xz.part0017",
+    "evidence/archive.tar.xz.part0018",
+    "evidence/archive.tar.xz.part0019",
+    "evidence/archive.tar.xz.part0020",
+    "evidence/archive.tar.xz.part0021",
+    "evidence/archive.tar.xz.part0022",
+    "evidence/archive.tar.xz.part0023",
+    "evidence/archive.tar.xz.part0024",
+    "evidence/archive.tar.xz.part0025",
+    "evidence/archive.tar.xz.part0026",
+    "evidence/archive.tar.xz.part0027",
+    "evidence/archive.tar.xz.part0028",
+    "evidence/archive.tar.xz.part0029",
+    "evidence/archive.tar.xz.part0030",
+    "evidence/archive.tar.xz.part0031",
+    "evidence/archive.tar.xz.part0032",
+    "evidence/archive.tar.xz.part0033",
+    "evidence/archive.tar.xz.part0034",
+    "evidence/archive.tar.xz.part0035",
+    "evidence/archive.tar.xz.part0036",
+    "evidence/archive.tar.xz.part0037",
+    "evidence/archive.tar.xz.part0038",
+    "evidence/archive.tar.xz.part0039",
+    "evidence/archive.tar.xz.part0040",
+    "evidence/archive.tar.xz.part0041",
+    "evidence/archive.tar.xz.part0042",
+    "evidence/archive.tar.xz.part0043",
+    "evidence/archive.tar.xz.part0044",
+    "evidence/archive.tar.xz.part0045",
+    "evidence/archive.tar.xz.part0046",
+    "evidence/archive.tar.xz.part0047",
+    "evidence/archive.tar.xz.part0048",
+    "evidence/archive.tar.xz.part0049",
+    "evidence/archive.tar.xz.part0050",
+    "evidence/archive.tar.xz.part0051",
+    "evidence/archive.tar.xz.part0052",
+    "evidence/archive.tar.xz.part0053",
+    "evidence/archive.tar.xz.part0054",
+    "evidence/archive.tar.xz.part0055",
+    "evidence/archive.tar.xz.part0056",
+    "evidence/archive.tar.xz.part0057",
+    "evidence/archive.tar.xz.part0058",
+    "evidence/archive.tar.xz.part0059",
+    "evidence/archive.tar.xz.part0060",
+    "evidence/archive.tar.xz.part0061",
+    "evidence/archive.tar.xz.part0062",
+    "evidence/archive.tar.xz.part0063",
+    "evidence/archive.tar.xz.part0064",
+    "evidence/archive.tar.xz.part0065",
+    "evidence/archive.tar.xz.part0066",
+    "evidence/archive.tar.xz.part0067",
+    "evidence/archive.tar.xz.part0068",
+    "evidence/archive.tar.xz.part0069",
+    "evidence/archive.tar.xz.part0070",
+    "evidence/archive.tar.xz.part0071",
+    "evidence/archive.tar.xz.part0072",
+    "evidence/archive.tar.xz.part0073",
+    "evidence/archive.tar.xz.part0074",
+    "evidence/archive.tar.xz.part0075",
+    "evidence/archive.tar.xz.part0076",
+    "evidence/archive.tar.xz.part0077",
+    "evidence/archive.tar.xz.part0078",
+    "evidence/archive.tar.xz.part0079",
+    "evidence/archive.tar.xz.part0080",
+    "evidence/archive.tar.xz.part0081",
+    "evidence/archive.tar.xz.part0082",
+    "evidence/archive.tar.xz.part0083",
+    "evidence/archive.tar.xz.part0084",
+    "evidence/archive.tar.xz.part0085",
+    "evidence/archive.tar.xz.part0086",
+    "evidence/archive.tar.xz.part0087",
+    "evidence/archive.tar.xz.part0088",
+    "evidence/archive.tar.xz.part0089",
+    "evidence/archive.tar.xz.part0090",
+    "evidence/archive.tar.xz.part0091",
+    "evidence/archive.tar.xz.part0092",
+    "evidence/archive.tar.xz.part0093",
+    "evidence/archive.tar.xz.part0094",
+    "evidence/archive.tar.xz.part0095",
+    "evidence/archive.tar.xz.part0096",
+    "evidence/archive.tar.xz.part0097",
+    "evidence/archive.tar.xz.part0098",
+    "evidence/archive.tar.xz.part0099",
+    "evidence/archive.tar.xz.part0100",
+    "evidence/archive.tar.xz.part0101",
+    "evidence/archive.tar.xz.part0102",
+    "evidence/archive.tar.xz.part0103",
+    "evidence/archive.tar.xz.part0104",
+    "evidence/archive.tar.xz.part0105",
+    "evidence/archive.tar.xz.part0106",
+    "evidence/archive.tar.xz.part0107",
+    "evidence/archive.tar.xz.part0108",
+    "evidence/archive.tar.xz.part0109",
+    "evidence/archive.tar.xz.part0110",
+    "evidence/archive.tar.xz.part0111",
+    "evidence/archive.tar.xz.part0112",
+    "evidence/archive.tar.xz.part0113",
+    "evidence/archive.tar.xz.part0114",
+    "evidence/archive.tar.xz.part0115",
+    "evidence/archive.tar.xz.part0116",
+    "evidence/archive.tar.xz.part0117",
+    "evidence/archive.tar.xz.part0118",
+    "evidence/archive.tar.xz.part0119",
+    "evidence/archive.tar.xz.part0120",
+    "evidence/archive.tar.xz.part0121",
+    "evidence/archive.tar.xz.part0122",
+    "evidence/archive.tar.xz.part0123",
+    "evidence/archive.tar.xz.part0124",
+    "evidence/archive.tar.xz.part0125",
+    "evidence/archive.tar.xz.part0126",
+    "evidence/archive.tar.xz.part0127",
+    "evidence/archive.tar.xz.part0128",
+    "evidence/archive.tar.xz.part0129",
+    "evidence/archive.tar.xz.part0130",
+    "evidence/archive.tar.xz.part0131",
+    "evidence/archive.tar.xz.part0132",
+    "evidence/archive.tar.xz.part0133",
+    "evidence/archive.tar.xz.part0134",
+    "evidence/archive.tar.xz.part0135",
+    "evidence/archive.tar.xz.part0136",
+    "evidence/archive.tar.xz.part0137",
+    "evidence/archive.tar.xz.part0138",
+    "evidence/archive.tar.xz.part0139",
+    "evidence/archive.tar.xz.part0140",
+    "evidence/archive.tar.xz.part0141",
+    "evidence/archive.tar.xz.part0142",
+    "evidence/archive.tar.xz.part0143",
+    "evidence/archive.tar.xz.part0144",
+    "evidence/archive.tar.xz.part0145",
+    "evidence/archive.tar.xz.part0146",
+    "evidence/archive.tar.xz.part0147",
+    "evidence/archive.tar.xz.part0148",
+    "evidence/archive.tar.xz.part0149",
+    "evidence/archive.tar.xz.part0150",
+    "evidence/archive.tar.xz.part0151",
+    "evidence/archive.tar.xz.part0152",
+    "evidence/archive.tar.xz.part0153",
+    "evidence/archive.tar.xz.part0154",
+    "evidence/archive.tar.xz.part0155",
+    "evidence/archive.tar.xz.part0156",
+    "evidence/archive.tar.xz.part0157",
+    "evidence/archive.tar.xz.part0158",
+    "evidence/archive.tar.xz.part0159",
+    "evidence/archive.tar.xz.part0160"
+  ],
+  "files": [
+    {
+      "path": "grading-support/other-experiment-calls.jsonl",
+      "sha256": "6891b595399ffc6bcd97f1b433cb52a4aad1893f1815aa11b94da08d0e001362",
+      "bytes": 1516905
+    },
+    {
+      "path": "evals/checkpoint-500/grading/calls.jsonl",
+      "sha256": "21164e78e54f88058b3b20a5aa5c3fc7b0e6d41cea505a4b654b6dd981d7204a",
+      "bytes": 3155355
+    },
+    {
+      "path": "evals/checkpoint-10000-luna/grading-support/other-experiment-calls.jsonl",
+      "sha256": "7ce1482c6eb1a170f74b085421a3b39dac3720484ae487b6596649375f6a00b6",
+      "bytes": 1647059
+    },
+    {
+      "path": "evals/checkpoint-10000-luna/grading/records.jsonl",
+      "sha256": "fd10151cee9d4f15c9d9c2c333ae361973dcf64005a343942b369992d805ed75",
+      "bytes": 4532521
+    },
+    {
+      "path": "evals/checkpoint-10000-luna/grading/calls.jsonl",
+      "sha256": "2728bf211752cf96b70620691af3423331c16892545015d7891ed5080d8196be",
+      "bytes": 60492176
+    },
+    {
+      "path": "evals/checkpoint-10000/verification.json",
+      "sha256": "ce5bef4f76a66e246b3d568ea5ffedc8d8f8f728d3ffc646af3e5d5d3b50e173",
+      "bytes": 1084909
+    },
+    {
+      "path": "evals/checkpoint-10000/grading/records.jsonl",
+      "sha256": "4f3ad0efafe10fe7acdfc17833d8866fd884b634485ac9f361a8a4baa18a5719",
+      "bytes": 4450486
+    },
+    {
+      "path": "evals/checkpoint-10000/grading/calls.jsonl",
+      "sha256": "e4ead37d5bf0fb7e16aa9b7dcd65c4afa3628a883d30f3b07596eb9c4bdbca1b",
+      "bytes": 44571311
+    },
+    {
+      "path": "grading/membership.csv",
+      "sha256": "856fd4cbd95a71186a34e55cca7bbdf8e98be191163c4608564285e64715614c",
+      "bytes": 2530280
+    },
+    {
+      "path": "grading/records.jsonl",
+      "sha256": "3a21372041a3aa8f4e4d723a8e82f79df239041f98d549b83a16d9e5244dfdef",
+      "bytes": 181579211
+    },
+    {
+      "path": "grading/calls.jsonl",
+      "sha256": "ae116312e3efe17b1bbd80634b3a49c74e012b9ad7fa5cffe6765639da4ef9fd",
+      "bytes": 143921100
+    },
+    {
+      "path": "cost/pilot_calls.jsonl",
+      "sha256": "7755d1aef68afdcb387c14d5005d1be417ef99b6ff2d989f92db617e6ca22f98",
+      "bytes": 1228191
+    },
+    {
+      "path": "cost/all_calls.jsonl",
+      "sha256": "e47b7c38407a68b52feb16e84e95e25ed471879abe04192aa1c1d6823c2b07ec",
+      "bytes": 1228191
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/pilot_calls.jsonl",
+      "sha256": "dd0851e228cdd2bd7ea323924286340d6a7bf21850252525f3fe2d2f837fa777",
+      "bytes": 1847208
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/usage.csv",
+      "sha256": "e796745309a9d786663853829729e263f2a8748315d5e4305169aee17c5f1cb0",
+      "bytes": 8513558
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/all_calls.jsonl",
+      "sha256": "dff72461d28c4e0f1baffdca57c929e28c0a7ad37b8957663d42d78cfa4fe350",
+      "bytes": 145438005
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/202e5c78-8226-406a-a7d4-75d09e2ff647.json",
+      "sha256": "15cfdb54bbe7b3ebe549eadac3f8c5b3a38ce27380920ac2b186ede4702af19e",
+      "bytes": 29070962
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/3909d039-4ed7-449e-9648-ab873e733851.json",
+      "sha256": "36f045514a954dd620d6d4b55b72b9f5b6e407d4754923eddfe4d0b140fde628",
+      "bytes": 29071145
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/38410c50-f566-4574-adb7-1af15bd6a9c1.json",
+      "sha256": "f9b538ae667567d0e159831c2f1e6b47869651b2170fa362d06106f7256c5826",
+      "bytes": 29072158
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/14d9bcdd-08a7-4040-92a7-509d087e6e5c.json",
+      "sha256": "aa035fe6535c5fc426d63240b9d5f7b68cfa1adbc6734b5caab4533dd2dca69e",
+      "bytes": 29070285
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/4079dd13-108a-43ca-95f0-0a6e635698ec.json",
+      "sha256": "7510a1ba6c0dd5b8743b8ece3717554bf13a995959e9f850cd63a16c380d3398",
+      "bytes": 29071648
+    },
+    {
+      "path": "cost/experiments/luna-batched-v2/runs/ab644b70-5eb2-4508-b255-fe08bb3870f7.json",
+      "sha256": "2374dccb3ca7bc592aae956bfa15268985ed1ec7932a4e89a9fe4e479b4ac5b5",
+      "bytes": 29072246
+    },
+    {
+      "path": "cost/experiments/compact-v2/usage.csv",
+      "sha256": "260c79d96d645a71da69a35ba87d4c672eda24494463f526927b8425b2e00354",
+      "bytes": 4579038
+    },
+    {
+      "path": "cost/experiments/compact-v2/all_calls.jsonl",
+      "sha256": "6c322f5182424fe322902eb50c738fe2028524df38671fd51a1c7e0fbbff9a6d",
+      "bytes": 44927071
+    },
+    {
+      "path": "cost/experiments/guarded-v5/pilot_calls.jsonl",
+      "sha256": "9e1a165db96f706f7bb170b2ac61ed5f5f50a6c4ec94e18a3cef3e6043ffb06c",
+      "bytes": 1660003
+    },
+    {
+      "path": "cost/experiments/guarded-v5/usage.csv",
+      "sha256": "a9ae261eeec2f882df866da515bcc9115cf5af5b8069938b78ab3bab99cbd1b3",
+      "bytes": 4702188
+    },
+    {
+      "path": "cost/experiments/guarded-v5/all_calls.jsonl",
+      "sha256": "12ac3864e89b81a5fce38a8ab71209e75c4959185793c1bc43cf9af002ce9945",
+      "bytes": 47123625
+    },
+    {
+      "path": "dashboard/lib/processed-reviews.json",
+      "sha256": "81c3c14a3d7247dfcea30b4a8efa5c9d47b25f7ed1e12a5294cf42f9c8e16160",
+      "bytes": 8375380
+    }
+  ]
+}

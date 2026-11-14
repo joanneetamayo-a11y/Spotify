@@ -1,0 +1,133 @@
+{
+  "run_id": "53b109f1-32db-4921-9409-10feed899e12",
+  "state": "failed",
+  "saved_completed": 3255,
+  "scope_rows": 10000,
+  "unresolved_rows": 6745,
+  "successful_calls": 1818,
+  "invalid_output_attempts": 78,
+  "exhausted_unique_review_ids": [
+    "9eca83ab-ecb4-480d-b6f1-dccf7030d4f1",
+    "b0c75cbe-05e3-4dd0-af59-a8f245265407",
+    "e295f742-fcb5-4d74-9ac2-5fd7e06bf9b2",
+    "fe0e75e6-cec7-4775-a4ac-56ec379a3147",
+    "ce06030b-e366-4fb8-ba24-23a70988aea9",
+    "077fbf8e-f439-49b1-8c40-c23d50796371",
+    "d5e6c5da-d95e-402c-913c-ad1a10281991",
+    "45a421b3-3ce6-47e4-917b-64c0ec0daf8c",
+    "baefeea0-457d-483f-91a5-9655e8c689e9",
+    "9c555fea-085e-4ef6-aabc-5e581097ff6a",
+    "1e6695da-e037-43de-a3bd-398bc0fd940b",
+    "599aea9e-558e-409f-aff3-a5350afa31a2",
+    "e30aae6c-4925-4268-835a-2165840d64a7",
+    "9e92809c-1d10-49c8-b956-c2343d50bc69",
+    "df643965-43d1-42bc-9cb7-65a069c9feea",
+    "bec8127c-3880-4f4f-87aa-69f95b704826",
+    "785fad6a-ee93-4ea3-b991-f75e06b8de62",
+    "74decd9d-4e45-4aad-b873-c61bf5025261",
+    "d18015a0-d474-423b-ba9d-1b595ec58f5e",
+    "310c9889-b37a-403b-80f3-cf47160d4b2e",
+    "5b313019-3d14-4ab7-9d68-a9a1942c12e8",
+    "cdaecfc0-7eda-4bfa-95a6-d6b5019caf7e",
+    "0e2c4a11-11cf-4258-9505-5b71ef1ef370",
+    "a5d60c5a-912f-44a0-adae-714e7e07d19d",
+    "35961d97-3f89-4e09-ae7c-a9b488ff7fee",
+    "f3bc75a3-8850-44c2-88f7-3cb557a752fb",
+    "7a18d742-3bf0-48d2-8a15-ed67bea208c4",
+    "4269de90-2d9e-45d0-96e3-d7c00b3f0208",
+    "66721b4f-87e0-4773-9517-a66530860ad1",
+    "2ee3b629-c692-4a87-b8cd-bbaa8237b02b",
+    "72ff1851-6b9d-4623-8c56-efbe1dc40710",
+    "949eb6d0-d1d3-4e38-8d58-65d7fe805b3a",
+    "6bfe1405-24ab-46b4-a3ad-78218af1752e",
+    "c78dd9ac-8538-41d0-8450-209a21ca7d6b",
+    "055fb361-f5be-411d-a60e-b86b37e5affc"
+  ],
+  "timeout_requests": [
+    {
+      "request_id": "9a338dc4-3b34-4571-a525-f6d9b26ffafd",
+      "review_ids": [
+        "414391d2-a456-4f41-86bc-5d21e54469b1"
+      ],
+      "error": "<urlopen error [Errno 60] Operation timed out>",
+      "attempt": 1,
+      "reserved_usd": 0.000165186,
+      "actual_charge": null
+    },
+    {
+      "request_id": "a0b606cf-fda8-4d58-b96c-fedcfd96e081",
+      "review_ids": [
+        "b7178947-7b74-427b-9684-e5c442ca3fdf"
+      ],
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>",
+      "attempt": 1,
+      "reserved_usd": 0.00016695,
+      "actual_charge": null
+    },
+    {
+      "request_id": "37e606c6-a8df-459f-81c3-fa03d4ac477e",
+      "review_ids": [
+        "1afa0521-fedb-4158-b8c9-0b1bf26941ad"
+      ],
+      "error": "<urlopen error [Errno 60] Operation timed out>",
+      "attempt": 1,
+      "reserved_usd": 0.0001638,
+      "actual_charge": null
+    },
+    {
+      "request_id": "7d5d7425-6a62-4e5b-b875-7ad20eb55e40",
+      "review_ids": [
+        "25144d38-9bd2-45ec-a4c9-2f34371f7b5e"
+      ],
+      "error": "<urlopen error [Errno 60] Operation timed out>",
+      "attempt": 1,
+      "reserved_usd": 0.000163842,
+      "actual_charge": null
+    },
+    {
+      "request_id": "b15ca82f-73b8-4d25-833f-eb7b1c5409f7",
+      "review_ids": [
+        "52b2e922-f8bf-4386-96d6-9cfb5f82d3a9"
+      ],
+      "error": "<urlopen error [Errno 60] Operation timed out>",
+      "attempt": 1,
+      "reserved_usd": 0.000166194,
+      "actual_charge": null
+    },
+    {
+      "request_id": "ee05d049-31e9-4a11-9ab5-df74078d479c",
+      "review_ids": [
+        "0e63d1bf-bf5a-4cfe-bc54-eef5bfc3e920"
+      ],
+      "error": "<urlopen error [Errno 60] Operation timed out>",
+      "attempt": 1,
+      "reserved_usd": 0.000163212,
+      "actual_charge": null
+    },
+    {
+      "request_id": "e33b89fc-6a72-4e02-8ab8-4f74db568be7",
+      "review_ids": [
+        "638c1ef1-bae5-4e45-94fd-0e902188f7f9"
+      ],
+      "error": "<urlopen error [Errno 60] Operation timed out>",
+      "attempt": 2,
+      "reserved_usd": 0.000162876,
+      "actual_charge": null
+    },
+    {
+      "request_id": "039894d3-6233-46e7-b030-fc7343d7149a",
+      "review_ids": [
+        "8e132a5a-e329-4f15-aea2-dce9059654e4"
+      ],
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>",
+      "attempt": 2,
+      "reserved_usd": 0.00016338,
+      "actual_charge": null
+    }
+  ],
+  "known_run_api_subtotal_usd": 0.085141854,
+  "unknown_run_reservations_usd": 0.00131544,
+  "integrity": "ok",
+  "cause": "Transport timeouts; root cause cannot be determined from saved logs. No HTTP429 returned by these eight requests.",
+  "paid_resume_started": false
+}

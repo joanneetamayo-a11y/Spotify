@@ -1,0 +1,300 @@
+[
+  {
+    "review_id": "9e5f9745-f8be-48d3-b9de-4d118507d94a",
+    "primary": {
+      "review_id": "9e5f9745-f8be-48d3-b9de-4d118507d94a",
+      "source_sha256": "543ff0699dac6ee6ae53f08f94200fe2c238f13633b98edc809d9db1ab4768f1",
+      "entities": [],
+      "evidence_quote": "Doesn't deserve even one star. Like what's the problem? We can't even go back few second to play music? WHAT IN THE WORLD IS THIS UPDATE? YOU PEOPLE NEED MORE MONEY?! gonna delete the app if they don't fix this",
+      "intent": "cancellation",
+      "needs_review": false,
+      "sentiment": -1.0,
+      "severity": 3,
+      "topic": "usability",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [
+        "rewinding music"
+      ],
+      "evidence_quote": "Doesn't deserve even one star. Like what's the problem? We can't even go back few second to play music? WHAT IN THE WORLD IS THIS UPDATE? YOU PEOPLE NEED MORE MONEY?! gonna delete the app if they don't fix this",
+      "intent": "cancellation",
+      "needs_review": false,
+      "review_id": "9e5f9745-f8be-48d3-b9de-4d118507d94a",
+      "sentiment": -1,
+      "severity": 3,
+      "topic": "usability"
+    },
+    "agrees": true,
+    "independence": "blind prompt; same model family, not human ground truth"
+  },
+  {
+    "review_id": "ab67a772-c3b7-42ba-9b80-8d21d3857018",
+    "primary": {
+      "review_id": "ab67a772-c3b7-42ba-9b80-8d21d3857018",
+      "source_sha256": "33bc13ddae66a68b092d0023536b8da942b5a0a4b24d396dc4082f416e08d040",
+      "entities": [],
+      "evidence_quote": "The ads are so loud :'(",
+      "intent": "complaint",
+      "needs_review": false,
+      "sentiment": -0.5,
+      "severity": 2,
+      "topic": "usability",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [
+        "ads"
+      ],
+      "evidence_quote": "The ads are so loud :'(",
+      "intent": "complaint",
+      "needs_review": false,
+      "review_id": "ab67a772-c3b7-42ba-9b80-8d21d3857018",
+      "sentiment": -0.7,
+      "severity": 2,
+      "topic": "usability"
+    },
+    "agrees": true,
+    "independence": "blind prompt; same model family, not human ground truth"
+  },
+  {
+    "review_id": "486d1d7a-d6f6-41ea-81ad-ed875452729c",
+    "primary": {
+      "review_id": "486d1d7a-d6f6-41ea-81ad-ed875452729c",
+      "source_sha256": "2f7384114d8646f5249662d5d4d46133854de746a1b72a0a00fc0febb52e1681",
+      "entities": [],
+      "evidence_quote": "Vary bad experience.i am uninstalling this app they burn quran and i will bycot this app as it is launched by swedan 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕",
+      "intent": "cancellation",
+      "needs_review": false,
+      "sentiment": -1.0,
+      "severity": 2,
+      "topic": "other",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [],
+      "evidence_quote": "Vary bad experience.i am uninstalling this app they burn quran and i will bycot this app as it is launched by swedan 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕",
+      "intent": "cancellation",
+      "needs_review": true,
+      "review_id": "486d1d7a-d6f6-41ea-81ad-ed875452729c",
+      "sentiment": -1,
+      "severity": 1,
+      "topic": "other"
+    },
+    "agrees": false,
+    "independence": "blind prompt; same model family, not human ground truth"
+  },
+  {
+    "review_id": "b92a7381-b5cd-4c77-9176-e5c4b4818c8a",
+    "primary": {
+      "review_id": "b92a7381-b5cd-4c77-9176-e5c4b4818c8a",
+      "source_sha256": "48ac7854ef8079d14b2a701f7923f4c4e58fd35e03cd00cc32e53800b67d32ea",
+      "entities": [],
+      "evidence_quote": "You deserve 0 star",
+      "intent": "unclear",
+      "needs_review": true,
+      "sentiment": 0.0,
+      "severity": 1,
+      "topic": "other",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [],
+      "evidence_quote": "You deserve 0 star",
+      "intent": "complaint",
+      "needs_review": false,
+      "review_id": "b92a7381-b5cd-4c77-9176-e5c4b4818c8a",
+      "sentiment": -0.8,
+      "severity": 2,
+      "topic": "other"
+    },
+    "agrees": false,
+    "independence": "blind prompt; same model family, not human ground truth"
+  },
+  {
+    "review_id": "ebc64fe2-9553-4528-87d5-cb4bb9783be6",
+    "primary": {
+      "review_id": "ebc64fe2-9553-4528-87d5-cb4bb9783be6",
+      "source_sha256": "7eb4fc70003a92a3a05ac6cbe9a8ff4963d5f9590502b437d1e5527867bafdb7",
+      "entities": [],
+      "evidence_quote": "I just want to listen to one song but nooo I have to go through A HOLE PLAYLIST AND I CAN ONLY SKIP 6 OF THEM 6!!!",
+      "intent": "complaint",
+      "needs_review": false,
+      "sentiment": -1.0,
+      "severity": 3,
+      "topic": "usability",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [
+        "playlist",
+        "skip"
+      ],
+      "evidence_quote": "I just want to listen to one song but nooo I have to go through A HOLE PLAYLIST AND I CAN ONLY SKIP 6 OF THEM 6!!!",
+      "intent": "complaint",
+      "needs_review": false,
+      "review_id": "ebc64fe2-9553-4528-87d5-cb4bb9783be6",
+      "sentiment": -0.9,
+      "severity": 3,
+      "topic": "usability"
+    },
+    "agrees": true,
+    "independence": "blind prompt; same model family, not human ground truth"
+  },
+  {
+    "review_id": "ad730d1a-829a-4dc4-9561-7e1cd07e2c30",
+    "primary": {
+      "review_id": "ad730d1a-829a-4dc4-9561-7e1cd07e2c30",
+      "source_sha256": "86ed95e4fb637a842fc80dbb109423d2592fa32088cc03d51de5e0ea551e5ded",
+      "entities": [],
+      "evidence_quote": "Why it requires premium just to play next music / to choose music ?? And why the specific part of song cannot be played ?",
+      "intent": "complaint",
+      "needs_review": false,
+      "sentiment": -0.5,
+      "severity": 3,
+      "topic": "billing",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [
+        "premium",
+        "play next",
+        "choose music"
+      ],
+      "evidence_quote": "Why it requires premium just to play next music / to choose music ?? And why the specific part of song cannot be played ?",
+      "intent": "complaint",
+      "needs_review": false,
+      "review_id": "ad730d1a-829a-4dc4-9561-7e1cd07e2c30",
+      "sentiment": -0.8,
+      "severity": 3,
+      "topic": "billing"
+    },
+    "agrees": true,
+    "independence": "blind prompt; same model family, not human ground truth"
+  },
+  {
+    "review_id": "e5e6c55f-3069-4b7c-9807-f8b5d5bf2726",
+    "primary": {
+      "review_id": "e5e6c55f-3069-4b7c-9807-f8b5d5bf2726",
+      "source_sha256": "f1836262ec8ab31a5315829c924cfadb22089c5d4eb712d5100b26fb13ac456b",
+      "entities": [],
+      "evidence_quote": "Too many ads.... it's literally useless if u hv not taken premium",
+      "intent": "complaint",
+      "needs_review": false,
+      "sentiment": -1.0,
+      "severity": 3,
+      "topic": "usability",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [
+        "ads",
+        "premium"
+      ],
+      "evidence_quote": "Too many ads.... it's literally useless if u hv not taken premium",
+      "intent": "complaint",
+      "needs_review": false,
+      "review_id": "e5e6c55f-3069-4b7c-9807-f8b5d5bf2726",
+      "sentiment": -0.8,
+      "severity": 2,
+      "topic": "usability"
+    },
+    "agrees": false,
+    "independence": "blind prompt; same model family, not human ground truth"
+  },
+  {
+    "review_id": "797d12c7-78dd-4805-a066-342ace701805",
+    "primary": {
+      "review_id": "797d12c7-78dd-4805-a066-342ace701805",
+      "source_sha256": "b298f2d4d1e65ccd8a59437597b1787ae8cdddaa9c22b1bf806defefd41d48bd",
+      "entities": [],
+      "evidence_quote": "Kudos spotify",
+      "intent": "praise",
+      "needs_review": true,
+      "sentiment": 0.0,
+      "severity": 1,
+      "topic": "other",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [
+        "Spotify"
+      ],
+      "evidence_quote": "Kudos spotify",
+      "intent": "praise",
+      "needs_review": false,
+      "review_id": "797d12c7-78dd-4805-a066-342ace701805",
+      "sentiment": 0.7,
+      "severity": 1,
+      "topic": "other"
+    },
+    "agrees": true,
+    "independence": "blind prompt; same model family, not human ground truth"
+  },
+  {
+    "review_id": "035213ba-b1b9-411c-b028-70296e5f0e73",
+    "primary": {
+      "review_id": "035213ba-b1b9-411c-b028-70296e5f0e73",
+      "source_sha256": "686415ddd2c82158a2da265efbc953603cfea1f9a5ca6c9ebd085f9fe6503000",
+      "entities": [],
+      "evidence_quote": "I m using this app from 5 to 6 year but now m uninstald this app cz his premium adds are everywhere now .",
+      "intent": "cancellation",
+      "needs_review": false,
+      "sentiment": -1.0,
+      "severity": 2,
+      "topic": "usability",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [
+        "premium ads"
+      ],
+      "evidence_quote": "I m using this app from 5 to 6 year but now m uninstald this app cz his premium adds are everywhere now .",
+      "intent": "cancellation",
+      "needs_review": false,
+      "review_id": "035213ba-b1b9-411c-b028-70296e5f0e73",
+      "sentiment": -0.8,
+      "severity": 2,
+      "topic": "usability"
+    },
+    "agrees": true,
+    "independence": "blind prompt; same model family, not human ground truth"
+  },
+  {
+    "review_id": "67b21b33-e6b9-4d1a-b874-86bc182b9ada",
+    "primary": {
+      "review_id": "67b21b33-e6b9-4d1a-b874-86bc182b9ada",
+      "source_sha256": "711f3fb391c44718a73523a2e28e15bcf826f5f82cbb46724baa96fe92ff79fe",
+      "entities": [],
+      "evidence_quote": "Spotify: music and pod system",
+      "intent": "unclear",
+      "needs_review": true,
+      "sentiment": 0.0,
+      "severity": 1,
+      "topic": "other",
+      "status": "completed",
+      "label_config": "d89de13e054fcc1e52c274cac72fc37355c1f4a061578a1242b277f2b401af88"
+    },
+    "blind_verification": {
+      "entities": [],
+      "evidence_quote": "Spotify: music and pod system",
+      "intent": "unclear",
+      "needs_review": true,
+      "review_id": "67b21b33-e6b9-4d1a-b874-86bc182b9ada",
+      "sentiment": 0,
+      "severity": 1,
+      "topic": "other"
+    },
+    "agrees": true,
+    "independence": "blind prompt; same model family, not human ground truth"
+  }
+]

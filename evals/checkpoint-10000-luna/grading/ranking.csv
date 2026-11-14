@@ -1,0 +1,9 @@
+rank,issue_id,complaint_count,severity_sum,mean_severity,priority_score
+1,usability,1465,3783,2.582253,3783
+2,other,1249,2507,2.007206,2507
+3,playback,618,2010,3.252427,2010
+4,billing,621,1684,2.711755,1684
+5,catalog,268,760,2.835821,760
+6,access,148,556,3.756757,556
+7,downloads,107,341,3.186916,341
+8,support,8,21,2.625000,21

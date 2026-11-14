@@ -1,0 +1,9 @@
+{
+  "rows": 50,
+  "expected": 50,
+  "missing_ids": [],
+  "issues": [],
+  "structurally_valid": true,
+  "source_sha256": "bc16c1b8a1cbafdc69c391a2c01da9f6464dcf71f313ce87c348c42354961166",
+  "note": "Format/source checks only; human judgments unchanged; no model calls."
+}

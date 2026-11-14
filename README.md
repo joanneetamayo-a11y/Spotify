@@ -1,3 +1,14 @@
+## Download and offline setup
+
+This repository contains the accepted-by-student partial submission. Large saved evidence is compressed and split into small files to fit GitHub upload limits. After downloading or cloning the repository, run:
+
+```sh
+python3 restore_evidence.py
+python3 -B cost/calculator.py
+```
+
+Restoration verifies SHA-256 checksums and makes no network or paid API calls. The database and original full input CSV are excluded; use the supplied ingestion script with your separately supplied dataset to rebuild locally. Never commit `.env`.
+
 > **Submitted scope (2026-10-26):** Partial dataset submission, accepted by the professor according to the student. 220,546 of 660,609 nonempty reviews are classified; 440,063 remain unclassified and 13 empty texts are quarantined. Further paid processing is stopped at the student’s request. This does not claim full-corpus completion or a clean pass against the original full-corpus grading contract. See SUBMISSION_STATUS.md for limitations.
 
 # Spotify Review Observatory — Final Assignment
@@ -60,7 +71,7 @@ git check-ignore .env
 git ls-files -- .env '.env.*'
 ```
 
-The root project is not yet a published submission repository. Do not claim those Git checks passed until a root repository exists and its staged contents have been inspected.
+Repository: https://github.com/joanneetamayo-a11y/Spotify. The submission excludes local credentials and runtime databases.
 
 ## Submission status
 

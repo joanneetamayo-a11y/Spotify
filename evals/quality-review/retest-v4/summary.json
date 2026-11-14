@@ -1,0 +1,16 @@
+{
+  "status": "complete",
+  "predictions": 69,
+  "error": null,
+  "seconds_this_invocation": 21.91326320799999,
+  "known_api_subtotal_usd": 0.003996258,
+  "unknown_calls": 0,
+  "new_ledger_spend_plus_reserved_usd": 0.00399625800000003,
+  "maximum_new_usd": 0.25,
+  "full_run_started": false,
+  "attempts": 72,
+  "failed_attempts": 6,
+  "successful_responses": 66,
+  "candidate_promoted": false,
+  "full_run_approved": false
+}

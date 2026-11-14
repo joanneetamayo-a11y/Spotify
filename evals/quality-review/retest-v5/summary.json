@@ -1,0 +1,11 @@
+{
+  "status": "complete",
+  "predictions": 62,
+  "error": null,
+  "seconds_this_invocation": 18.477959165989887,
+  "known_api_subtotal_usd": 0.00465087,
+  "unknown_calls": 0,
+  "new_ledger_spend_plus_reserved_usd": 0.004650869999999974,
+  "maximum_new_usd": 0.25,
+  "full_run_started": false
+}

@@ -1,0 +1,21 @@
+{
+  "total_rows": 660622,
+  "nonempty_rows": 660609,
+  "unique_nonempty_texts": 484189,
+  "budget_usd": 10,
+  "local_compute_usd_per_hour": null,
+  "base": {
+    "retry_fraction": 0.02,
+    "verification_fraction": 0.1,
+    "fallback_fraction": 0,
+    "fallback_cost_multiplier": 1,
+    "throughput_factor": 1
+  },
+  "conservative": {
+    "retry_fraction": 0.1,
+    "verification_fraction": 0.2,
+    "fallback_fraction": 0.02,
+    "fallback_cost_multiplier": 10,
+    "throughput_factor": 0.5
+  }
+}

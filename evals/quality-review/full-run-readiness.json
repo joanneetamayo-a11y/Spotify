@@ -1,0 +1,28 @@
+{
+  "user_full_run_authorized": true,
+  "user_ceiling_usd_per_100000": 10,
+  "full_run_started": false,
+  "guarded_v5_synthetic": "31/31",
+  "guarded_v5_real_pilot": [
+    {
+      "run_id": "4fc02057-745a-4716-8b9d-011c33d7f2a1",
+      "kind": "cold",
+      "completed": 99,
+      "failed": 1,
+      "seconds": 52.28687016596086,
+      "verification_agreement": 0.7,
+      "enrichment_calls": 102
+    },
+    {
+      "run_id": "c48b40ce-a10e-4a0d-8925-528beba9e4e7",
+      "kind": "warm",
+      "completed": 99,
+      "failed": 1,
+      "seconds": 4.230955458013341,
+      "verification_agreement": 0.7,
+      "enrichment_calls": 0
+    }
+  ],
+  "decision": "Do not scale failed Jev pilot; measuring batched Luna alternative under shared $1 checkpoint cap.",
+  "human_answers_in_inputs": false
+}

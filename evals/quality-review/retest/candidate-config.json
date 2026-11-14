@@ -1,0 +1,56 @@
+{
+  "provider": "typesafe",
+  "model": "jev-1.14.0",
+  "effort": "not_applicable",
+  "verify_model": "gpt-6-luna",
+  "verify_effort": "low",
+  "memo_model": "gpt-6-luna",
+  "memo_effort": "none",
+  "prompt_version": "spotify-jev-guarded-v3",
+  "schema_version": "labels-v1",
+  "batch_size": 1,
+  "workers": 1,
+  "max_output_tokens": 6000,
+  "max_attempts": 2,
+  "requests_per_minute": 4800,
+  "tokens_per_minute": 6000000,
+  "verification_fraction": 0.1,
+  "max_fallback_fraction": 0.0,
+  "fallback_model": null,
+  "fallback_effort": "low",
+  "minimum_verification_agreement": 0.85,
+  "budget_usd": 0.750230117,
+  "max_input_bytes": 64000,
+  "jev_prompt_style": "guarded-v3",
+  "cost_output_dir": "/Users/joannetamayo/Documents/ChatGPT/Final Assignment_Agentic AI/cost/experiments/compact-v2",
+  "model_limits": {
+    "gpt-6-luna": {
+      "requests_per_minute": 30,
+      "tokens_per_minute": 100000,
+      "tokens_per_day": 20000000
+    },
+    "jev-1.14.0": {
+      "requests_per_second": 80,
+      "tokens_per_second": 100000,
+      "requests_per_minute": 4800,
+      "tokens_per_minute": 6000000
+    }
+  },
+  "reviewed_http429_resume_ids": [
+    "fc5334c6-7d79-4440-9d3b-07f85a117e25"
+  ],
+  "reviewed_timeout_resume_ids": [
+    "9a338dc4-3b34-4571-a525-f6d9b26ffafd",
+    "a0b606cf-fda8-4d58-b96c-fedcfd96e081",
+    "37e606c6-a8df-459f-81c3-fa03d4ac477e",
+    "7d5d7425-6a62-4e5b-b875-7ad20eb55e40",
+    "b15ca82f-73b8-4d25-833f-eb7b1c5409f7",
+    "ee05d049-31e9-4a11-9ab5-df74078d479c",
+    "e33b89fc-6a72-4e02-8ab8-4f74db568be7",
+    "039894d3-6233-46e7-b030-fc7343d7149a"
+  ],
+  "verification_batch_size": 10,
+  "reviewed_connection_reset_resume_ids": [
+    "78cc67c5-9e88-43fb-bec4-8d729c14179a"
+  ]
+}

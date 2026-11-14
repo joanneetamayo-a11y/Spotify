@@ -1,0 +1,13 @@
+{
+  "rows": 50,
+  "input_sha256": "874ec372a1fc73255dd1566193aa9d3f604e4b4cc1818075fda12e87b3b31a05",
+  "human_labels_sha256": "bc16c1b8a1cbafdc69c391a2c01da9f6464dcf71f313ce87c348c42354961166",
+  "input_source": "supplied/golden_50_to_label.csv, original six columns only",
+  "model_input_fields": [
+    "review_id",
+    "review_text"
+  ],
+  "status": "prepared_not_executed",
+  "sentiment_metric": "mean absolute error",
+  "golden_use": "Evaluation only; do not tune prompts or routing on these labels. Freeze chosen configuration before generating predictions."
+}

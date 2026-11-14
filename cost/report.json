@@ -1,0 +1,445 @@
+{
+  "status": "measured_with_recovery",
+  "recovery_basis": {
+    "run_ids": [
+      "38580b18-7d08-4219-8f9c-a36bf6e24888",
+      "388c20dc-a1fa-45b1-9dd0-080b904eb6f4",
+      "ea84b52e-6977-48b8-a06e-3ad6c8444d46"
+    ],
+    "measured_active_wall_seconds": 350.7133268759935,
+    "intervention_time": "excluded and unmeasured; this is a recovered cold experiment, not one uninterrupted run",
+    "stages": {
+      "memo": {
+        "api_usd": 0.00224048,
+        "seconds": 32.68646516802255,
+        "attempts": 4,
+        "reviews": 0,
+        "unresolved": 0
+      },
+      "enrich": {
+        "api_usd": 0.009946398000000004,
+        "seconds": 279.02191612502793,
+        "attempts": 101,
+        "reviews": 100,
+        "unresolved": 0
+      },
+      "verify": {
+        "api_usd": 0.0014948000000000001,
+        "seconds": 33.855500790057704,
+        "attempts": 12,
+        "reviews": 10,
+        "unresolved": 2
+      },
+      "group": {
+        "api_usd": 0.0002611,
+        "seconds": 1.9105873749940656,
+        "attempts": 1,
+        "reviews": 0,
+        "unresolved": 0
+      }
+    }
+  },
+  "measurements": [
+    {
+      "run_id": "02999f7e-7968-47fb-8fb3-b5dc208ce8eb",
+      "kind": "warm",
+      "checksum": "c884ac3b9be5066995d5063f96ad9af6e5e082975788c1684c4f6b6ea661dd0e",
+      "rows": 100,
+      "completed": 100,
+      "failed": 0,
+      "unique_texts": 100,
+      "cache_hits_at_start": 100,
+      "seconds": 0.03023558302083984,
+      "stage_seconds": {
+        "prepare": 0.001031958032399416,
+        "enrich": 0.0004652080242522061,
+        "verify": 0.0018440419808030128,
+        "aggregate": 0.0028445839998312294,
+        "group": 0.00014358299085870385,
+        "memo": 0.00013291696086525917
+      },
+      "error": null,
+      "verification_agreement": 0.8,
+      "label_config": "e8cb65459b97e628a303b944c1c6c49405325d93712b3dfa12e16b0b750b6273",
+      "api_usd": 0.0,
+      "known_api_subtotal_usd": 0.0,
+      "unresolved_attempts": 0,
+      "attempts": 0,
+      "stages": {},
+      "throughput_rows_per_second": 3307.3613937285454,
+      "cost_per_1000_input_rows": 0.0,
+      "cost_per_completed_record": 0.0
+    },
+    {
+      "run_id": "38580b18-7d08-4219-8f9c-a36bf6e24888",
+      "kind": "resume",
+      "checksum": "c884ac3b9be5066995d5063f96ad9af6e5e082975788c1684c4f6b6ea661dd0e",
+      "rows": 100,
+      "completed": 100,
+      "failed": 0,
+      "unique_texts": 100,
+      "cache_hits_at_start": 100,
+      "seconds": 5.994675167021342,
+      "stage_seconds": {
+        "prepare": 0.0005048749735578895,
+        "enrich": 0.0004220000118948519,
+        "verify": 0.0021454159868881106,
+        "aggregate": 0.0012852909858338535,
+        "group": 0.0001110419980250299,
+        "memo": 5.97333599999547
+      },
+      "error": null,
+      "verification_agreement": 0.8,
+      "label_config": "e8cb65459b97e628a303b944c1c6c49405325d93712b3dfa12e16b0b750b6273",
+      "api_usd": 0.0004665,
+      "known_api_subtotal_usd": 0.0004665,
+      "unresolved_attempts": 0,
+      "attempts": 1,
+      "stages": {
+        "memo": {
+          "api_usd": 0.0004665,
+          "seconds": 5.969209417002276,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        }
+      },
+      "throughput_rows_per_second": 16.681471007825834,
+      "cost_per_1000_input_rows": 0.004665,
+      "cost_per_completed_record": 4.665e-06
+    },
+    {
+      "run_id": "388c20dc-a1fa-45b1-9dd0-080b904eb6f4",
+      "kind": "cold",
+      "checksum": "c884ac3b9be5066995d5063f96ad9af6e5e082975788c1684c4f6b6ea661dd0e",
+      "rows": 100,
+      "completed": 100,
+      "failed": 0,
+      "unique_texts": 100,
+      "cache_hits_at_start": 0,
+      "seconds": 279.8751847919775,
+      "stage_seconds": {
+        "prepare": 0.004253292048815638,
+        "enrich": 279.02191612502793
+      },
+      "error": "UncertainCharge: Uncertain outcome; no automatic repeat. Reconcile saved call before resuming.",
+      "verification_agreement": null,
+      "label_config": "e8cb65459b97e628a303b944c1c6c49405325d93712b3dfa12e16b0b750b6273",
+      "api_usd": null,
+      "known_api_subtotal_usd": 0.009946398,
+      "unresolved_attempts": 2,
+      "attempts": 103,
+      "stages": {
+        "enrich": {
+          "api_usd": 0.009946398000000004,
+          "seconds": 34.63390379893826,
+          "attempts": 101,
+          "reviews": 101,
+          "unresolved": 0
+        },
+        "verify": {
+          "api_usd": 0.0,
+          "seconds": 1.2566237070132047,
+          "attempts": 2,
+          "reviews": 2,
+          "unresolved": 2
+        }
+      },
+      "throughput_rows_per_second": 0.357302131213694,
+      "cost_per_1000_input_rows": null,
+      "cost_per_completed_record": null
+    },
+    {
+      "run_id": "c6c63529-59e7-47d8-994c-a104e3b7caed",
+      "kind": "warm",
+      "checksum": "c884ac3b9be5066995d5063f96ad9af6e5e082975788c1684c4f6b6ea661dd0e",
+      "rows": 100,
+      "completed": 100,
+      "failed": 0,
+      "unique_texts": 100,
+      "cache_hits_at_start": 100,
+      "seconds": 0.01531995803816244,
+      "stage_seconds": {
+        "prepare": 0.00023341603809967637,
+        "enrich": 0.00042991701047867537,
+        "verify": 0.007144666975364089,
+        "aggregate": 0.0017956250230781734,
+        "group": 0.00011683400953188539,
+        "memo": 0.00011191598605364561
+      },
+      "error": null,
+      "verification_agreement": 0.8,
+      "label_config": "e8cb65459b97e628a303b944c1c6c49405325d93712b3dfa12e16b0b750b6273",
+      "api_usd": 0.0,
+      "known_api_subtotal_usd": 0.0,
+      "unresolved_attempts": 0,
+      "attempts": 0,
+      "stages": {},
+      "throughput_rows_per_second": 6527.433022394528,
+      "cost_per_1000_input_rows": 0.0,
+      "cost_per_completed_record": 0.0
+    },
+    {
+      "run_id": "ea84b52e-6977-48b8-a06e-3ad6c8444d46",
+      "kind": "resume",
+      "checksum": "c884ac3b9be5066995d5063f96ad9af6e5e082975788c1684c4f6b6ea661dd0e",
+      "rows": 100,
+      "completed": 100,
+      "failed": 0,
+      "unique_texts": 100,
+      "cache_hits_at_start": 100,
+      "seconds": 64.84346691699466,
+      "stage_seconds": {
+        "prepare": 0.0005093750078231096,
+        "enrich": 0.00043354101944714785,
+        "verify": 32.5988770830445,
+        "aggregate": 0.002674749994184822,
+        "group": 1.9105873749940656
+      },
+      "error": "ValueError: Unsupported citation",
+      "verification_agreement": 0.8,
+      "label_config": "e8cb65459b97e628a303b944c1c6c49405325d93712b3dfa12e16b0b750b6273",
+      "api_usd": 0.00352988,
+      "known_api_subtotal_usd": 0.00352988,
+      "unresolved_attempts": 0,
+      "attempts": 14,
+      "stages": {
+        "verify": {
+          "api_usd": 0.0014948000000000001,
+          "seconds": 32.56926100101555,
+          "attempts": 10,
+          "reviews": 10,
+          "unresolved": 0
+        },
+        "group": {
+          "api_usd": 0.0002611,
+          "seconds": 1.9082139169913717,
+          "attempts": 1,
+          "reviews": 0,
+          "unresolved": 0
+        },
+        "memo": {
+          "api_usd": 0.00177398,
+          "seconds": 26.71312916802708,
+          "attempts": 3,
+          "reviews": 0,
+          "unresolved": 0
+        }
+      },
+      "throughput_rows_per_second": 1.542175407246636,
+      "cost_per_1000_input_rows": 0.0352988,
+      "cost_per_completed_record": 3.52988e-05
+    }
+  ],
+  "projections": [
+    {
+      "scenario": "base",
+      "exact_text_reuse": true,
+      "estimated_api_usd": null,
+      "known_usage_based_api_estimate_usd": 59.19738292270443,
+      "known_usage_based_usd_per_100000": 8.960855515363464,
+      "estimated_seconds": 1606235.0773314475,
+      "estimated_usd_per_100000": null,
+      "over_budget": null,
+      "exceeds_user_10_usd_per_100000_ceiling": null,
+      "local_compute_usd": null,
+      "stages": {
+        "memo": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.0022852896,
+          "estimated_seconds": 33.340194471383
+        },
+        "enrich": {
+          "projected_work": 484189,
+          "estimated_api_usd": 49.12255231246442,
+          "estimated_seconds": 1378013.2939759437
+        },
+        "verify": {
+          "projected_work": 66060.90000000001,
+          "estimated_api_usd": 10.072278998640002,
+          "estimated_seconds": 228125.5349184762
+        },
+        "group": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.000266322,
+          "estimated_seconds": 1.948799122493947
+        },
+        "fallback": {
+          "estimated_api_usd": 0.0,
+          "estimated_seconds": 0.0,
+          "status": "hypothetical only; production fallback cap is zero"
+        }
+      },
+      "assumptions": {
+        "retry_fraction": 0.02,
+        "verification_fraction": 0.1,
+        "fallback_fraction": 0,
+        "fallback_cost_multiplier": 1,
+        "throughput_factor": 1
+      }
+    },
+    {
+      "scenario": "base",
+      "exact_text_reuse": false,
+      "estimated_api_usd": null,
+      "known_usage_based_api_estimate_usd": 77.09576698133642,
+      "known_usage_based_usd_per_100000": 11.670178556169251,
+      "estimated_seconds": 2108330.5510477773,
+      "estimated_usd_per_100000": null,
+      "over_budget": null,
+      "exceeds_user_10_usd_per_100000_ceiling": null,
+      "local_compute_usd": null,
+      "stages": {
+        "memo": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.0022852896,
+          "estimated_seconds": 33.340194471383
+        },
+        "enrich": {
+          "projected_work": 660609,
+          "estimated_api_usd": 67.02093637109643,
+          "estimated_seconds": 1880108.7676922735
+        },
+        "verify": {
+          "projected_work": 66060.90000000001,
+          "estimated_api_usd": 10.072278998640002,
+          "estimated_seconds": 228125.5349184762
+        },
+        "group": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.000266322,
+          "estimated_seconds": 1.948799122493947
+        },
+        "fallback": {
+          "estimated_api_usd": 0.0,
+          "estimated_seconds": 0.0,
+          "status": "hypothetical only; production fallback cap is zero"
+        }
+      },
+      "assumptions": {
+        "retry_fraction": 0.02,
+        "verification_fraction": 0.1,
+        "fallback_fraction": 0,
+        "fallback_cost_multiplier": 1,
+        "throughput_factor": 1
+      }
+    },
+    {
+      "scenario": "conservative",
+      "exact_text_reuse": true,
+      "estimated_api_usd": null,
+      "known_usage_based_api_estimate_usd": 85.29763688453043,
+      "known_usage_based_usd_per_100000": 12.911716062215675,
+      "estimated_seconds": 4015837.254648551,
+      "estimated_usd_per_100000": null,
+      "over_budget": null,
+      "exceeds_user_10_usd_per_100000_ceiling": null,
+      "local_compute_usd": null,
+      "stages": {
+        "memo": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.002464528,
+          "estimated_seconds": 71.91022336964961
+        },
+        "enrich": {
+          "projected_work": 484189,
+          "estimated_api_usd": 52.97530151344203,
+          "estimated_seconds": 2972185.536026546
+        },
+        "verify": {
+          "projected_work": 132121.80000000002,
+          "estimated_api_usd": 21.724523330400004,
+          "estimated_seconds": 984070.9349424463
+        },
+        "group": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.00028721000000000004,
+          "estimated_seconds": 4.203292224986945
+        },
+        "fallback": {
+          "estimated_api_usd": 10.595060302688404,
+          "estimated_seconds": 59443.710720530915,
+          "status": "hypothetical only; production fallback cap is zero"
+        }
+      },
+      "assumptions": {
+        "retry_fraction": 0.1,
+        "verification_fraction": 0.2,
+        "fallback_fraction": 0.02,
+        "fallback_cost_multiplier": 10,
+        "throughput_factor": 0.5
+      }
+    },
+    {
+      "scenario": "conservative",
+      "exact_text_reuse": false,
+      "estimated_api_usd": null,
+      "known_usage_based_api_estimate_usd": 108.46025154864245,
+      "known_usage_based_usd_per_100000": 16.417898820905517,
+      "estimated_seconds": 5120447.296824477,
+      "estimated_usd_per_100000": null,
+      "over_budget": null,
+      "exceeds_user_10_usd_per_100000_ceiling": null,
+      "local_compute_usd": null,
+      "stages": {
+        "memo": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.002464528,
+          "estimated_seconds": 71.91022336964961
+        },
+        "enrich": {
+          "projected_work": 660609,
+          "estimated_api_usd": 72.27748040020204,
+          "estimated_seconds": 4055136.557767649
+        },
+        "verify": {
+          "projected_work": 132121.80000000002,
+          "estimated_api_usd": 21.724523330400004,
+          "estimated_seconds": 984070.9349424463
+        },
+        "group": {
+          "projected_work": 1,
+          "estimated_api_usd": 0.00028721000000000004,
+          "estimated_seconds": 4.203292224986945
+        },
+        "fallback": {
+          "estimated_api_usd": 14.455496080040406,
+          "estimated_seconds": 81102.73115535299,
+          "status": "hypothetical only; production fallback cap is zero"
+        }
+      },
+      "assumptions": {
+        "retry_fraction": 0.1,
+        "verification_fraction": 0.2,
+        "fallback_fraction": 0.02,
+        "fallback_cost_multiplier": 10,
+        "throughput_factor": 0.5
+      }
+    }
+  ],
+  "scenarios": {
+    "total_rows": 660622,
+    "nonempty_rows": 660609,
+    "unique_nonempty_texts": 484189,
+    "budget_usd": 10,
+    "local_compute_usd_per_hour": null,
+    "base": {
+      "retry_fraction": 0.02,
+      "verification_fraction": 0.1,
+      "fallback_fraction": 0,
+      "fallback_cost_multiplier": 1,
+      "throughput_factor": 1
+    },
+    "conservative": {
+      "retry_fraction": 0.1,
+      "verification_fraction": 0.2,
+      "fallback_fraction": 0.02,
+      "fallback_cost_multiplier": 10,
+      "throughput_factor": 0.5
+    }
+  },
+  "local_compute": "unknown unless explicitly priced",
+  "infrastructure_cost": "unknown",
+  "account_usage_reconciliation": "not performed",
+  "user_ceiling_usd_per_100000": 10
+}

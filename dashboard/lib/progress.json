@@ -1,0 +1,15 @@
+{
+  "runId": "ab644b70-5eb2-4508-b255-fe08bb3870f7",
+  "runStatus": "Paused \u2014 provider prompt-filter rejection",
+  "completed": 220546,
+  "pending": 440063,
+  "progressUpdatedAt": "2026-10-25T20:21:29.831566+00:00",
+  "knownApiSubtotal": 3.63437975,
+  "reservedApiSubtotal": 3.68004594,
+  "unknownCalls": 20,
+  "apiSpend": null,
+  "fullRunCap": 66.06,
+  "checkpointAgreement": 0.825,
+  "checkpointSample": 1000,
+  "submissionReady": false
+}

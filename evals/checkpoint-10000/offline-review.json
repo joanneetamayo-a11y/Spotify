@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-24",
+  "paid_model_calls_this_update": 0,
+  "offline_tests_passed": 17,
+  "independent_records_verified": 10000,
+  "checker_status": "review_required",
+  "resolved": [
+    "Unrelated experiment call IDs removed from scoped grading log; archived separately",
+    "External direct cache originals preserved in support artifacts",
+    "Adjudication included in cost scenarios; every saved call repriced",
+    "Default calculator replays measured compact-v2 evidence"
+  ],
+  "unresolved": [
+    "Two semantic adversarial failures; no new model retest performed",
+    "74.8% verifier agreement below configured 85% gate",
+    "87 external cache origins unsupported by supplied sample checker",
+    "Unknown usage remains unavailable",
+    "Actual interruption/resume recording outstanding"
+  ],
+  "full_run_authorized": false,
+  "full_run_started": false
+}

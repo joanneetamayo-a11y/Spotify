@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 203, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/joannetamayo/Documents/ChatGPT/Final Assignment_Agentic AI/pipeline/runner.py", line 238, in <module>
+    if __name__=='__main__': main()
+                             ~~~~^^
+  File "/Users/joannetamayo/Documents/ChatGPT/Final Assignment_Agentic AI/pipeline/runner.py", line 220, in main
+    print(canonical(run(db,cfg,args.input,args.kind,args.stop_after_batches)))
+                    ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joannetamayo/Documents/ChatGPT/Final Assignment_Agentic AI/pipeline/runner.py", line 207, in run
+    if error: raise RuntimeError(error)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: ValueError: Unsupported citation

@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "records": 10000,
+  "external_origin_aliases": 0,
+  "ranking_recomputed": true,
+  "scope": "Saved-data structural verification only; does not certify semantic correctness, billing or full-corpus completion"
+}

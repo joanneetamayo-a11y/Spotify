@@ -1,3 +1,3 @@
-# Upload in progress
+# Uploaded partial submission
 
-Initial source and status files only. Saved usage, grading evidence, dashboard source and other supporting artifacts still need uploading. Offline replay requires the saved evidence files and is not yet available from this repository alone. Do not treat this upload as the complete submission. No additional paid processing is planned.
+Pipeline, dashboard source, saved usage, checkpoint and grading evidence are included. Run `python3 restore_evidence.py` to restore compressed evidence before offline checks. This is the partial dataset submission described in SUBMISSION_STATUS.md, not full-corpus completion. The live dashboard remains access-controlled separately from this public repository.

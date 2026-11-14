@@ -1,0 +1,567 @@
+{
+  "source_sha256": "1fc85de68a304dd8978b537cfa58793d5f41cbaf417fa32cb53899f83a2fcef6",
+  "analysis_sha256": "eaa62ca6d44d717302904a9c922e99b0b4584d174309cb45295ecbc2ba2a91b5",
+  "analysisCount": 10000,
+  "total": 660622,
+  "nonempty": 660609,
+  "quarantined": 13,
+  "distinct": 484189,
+  "completed": 10000,
+  "pending": 650609,
+  "months": {
+    "2022-05": 15461,
+    "2022-06": 30338,
+    "2022-07": 32784,
+    "2022-08": 30732,
+    "2022-09": 26933,
+    "2022-10": 27572,
+    "2022-11": 27349,
+    "2022-12": 31744,
+    "2023-01": 28609,
+    "2023-02": 20889,
+    "2023-03": 27238,
+    "2023-04": 25014,
+    "2023-05": 28062,
+    "2023-06": 27117,
+    "2023-07": 85079,
+    "2023-08": 30438,
+    "2023-09": 41634,
+    "2023-10": 89104,
+    "2023-11": 34525
+  },
+  "ratings": {
+    "1": 242620,
+    "2": 31034,
+    "3": 33268,
+    "4": 54140,
+    "5": 299560
+  },
+  "ranking": [
+    {
+      "rank": 1,
+      "issue_id": "usability",
+      "complaint_count": 1302,
+      "severity_sum": 3267,
+      "mean_severity": "2.509217",
+      "priority_score": 3267
+    },
+    {
+      "rank": 2,
+      "issue_id": "other",
+      "complaint_count": 1430,
+      "severity_sum": 2855,
+      "mean_severity": "1.996503",
+      "priority_score": 2855
+    },
+    {
+      "rank": 3,
+      "issue_id": "playback",
+      "complaint_count": 626,
+      "severity_sum": 2088,
+      "mean_severity": "3.335463",
+      "priority_score": 2088
+    },
+    {
+      "rank": 4,
+      "issue_id": "billing",
+      "complaint_count": 663,
+      "severity_sum": 1809,
+      "mean_severity": "2.728507",
+      "priority_score": 1809
+    },
+    {
+      "rank": 5,
+      "issue_id": "access",
+      "complaint_count": 146,
+      "severity_sum": 570,
+      "mean_severity": "3.904110",
+      "priority_score": 570
+    },
+    {
+      "rank": 6,
+      "issue_id": "catalog",
+      "complaint_count": 198,
+      "severity_sum": 559,
+      "mean_severity": "2.823232",
+      "priority_score": 559
+    },
+    {
+      "rank": 7,
+      "issue_id": "downloads",
+      "complaint_count": 81,
+      "severity_sum": 265,
+      "mean_severity": "3.271605",
+      "priority_score": 265
+    },
+    {
+      "rank": 8,
+      "issue_id": "support",
+      "complaint_count": 11,
+      "severity_sum": 29,
+      "mean_severity": "2.636364",
+      "priority_score": 29
+    }
+  ],
+  "evidence": {
+    "playback": [
+      {
+        "review_id": "a405a67b-b1f3-4e53-a556-2ebb765c21fb",
+        "quote": "Signed up for duo app crashes and both parties lost entire downloaded music. No support or fix",
+        "severity": 5
+      },
+      {
+        "review_id": "004d1c8a-a8c8-4746-b975-cd2f31c2a730",
+        "quote": "Until a few days ago the app was great but now it's not even playing songs. It just keeps loading even when there's active internet and all other apps are able to work..songs just don't play. I've restarting my phone updated the app done literally everything the songs just don't play. Horrible experience.",
+        "severity": 4
+      },
+      {
+        "review_id": "006b8080-637f-497f-893a-e8b2e44f1a0c",
+        "quote": "Worst app , having bug every 7-8 days Can't search song showing no network connection even after having good network speed",
+        "severity": 4
+      }
+    ],
+    "billing": [
+      {
+        "review_id": "41c0c736-6617-466a-8e4d-3a2b551185e5",
+        "quote": "I had unsubscribed, and Spotify stole My money!!!",
+        "severity": 5
+      },
+      {
+        "review_id": "6985febf-75fa-47e9-9a86-c62f47a18554",
+        "quote": "ME ENCANTA SPOTIFY, EL ÚNICO PROBLEMA ES QUE NUEVAMENTE LE COBRARON A JAIME ROSALES, QUE ES GRATIS SUPUESTAMENTE Y ÉL NO LO USA. SOY YO LA QUE LO QUIERO.",
+        "severity": 5
+      },
+      {
+        "review_id": "70c10706-cb1c-4623-9c21-bf303e1e6ebe",
+        "quote": "Charged me for subscription even though I tried cancelling it 50 times this is the worst app ever DO NOT DOWN!!",
+        "severity": 5
+      }
+    ],
+    "other": [
+      {
+        "review_id": "68a5d92a-1dca-40ba-b9f8-fc61a24b12a8",
+        "quote": "This is a very very bad app and is a very data has hacking for our mobile",
+        "severity": 5
+      },
+      {
+        "review_id": "74ae4c26-9e3f-475c-ba0e-ed683ca5b88c",
+        "quote": "Third party access needs to be addressed or reported to the FCCD...and whatever other worldwide/nations entities that monitor the internet and apps accessibility across internet access. This app provides a virtual open door for third party apps to access an individual's property through the app. It needs to be investigated and reported. This app is a hackers dream piece...smdh...",
+        "severity": 5
+      },
+      {
+        "review_id": "9ec6712e-a862-4605-ae0e-e6998105f921",
+        "quote": "Developer's, You collect to much of my personal info, then it states I can delete all of my personal info. I can't delete mine! I just turned phone on. Spotify was playing a show when I didn't turn Spotify on. I uninstalled the application. I want my personal information Deleted! Please fix this. I don't know what Android wear is, but that's the 1st question.",
+        "severity": 5
+      }
+    ],
+    "usability": [
+      {
+        "review_id": "d87536c5-6fe0-4b38-b0b1-c47936e4a0d8",
+        "quote": "Top algorithm, but again hacked ,can't even recover the playlists set by me last week ,cost over three hundred dollars,per week for nothing ,",
+        "severity": 5
+      },
+      {
+        "review_id": "ee11e1df-cb73-4c3a-b5e8-7268c7872b01",
+        "quote": "I love the selection and the quality however I have one major problem. When asked to watch an ad for 30 minutes of uninterrupted listening upon clicking ok it will play 3 or 4 ads and not ten minutes later play another. Please fix this Spotify. Update: my playlist, that had hundreds of songs that took years to put together, just vanished. Im actually about to cry. Bumped my rating to 1 star. Very upset",
+        "severity": 5
+      },
+      {
+        "review_id": "131c2c68-4e7f-413e-9618-94d032c7ac5d",
+        "quote": "Spotify does not load my playlist on my Samsung phone...it used to work. Very annoying.",
+        "severity": 4
+      }
+    ],
+    "downloads": [
+      {
+        "review_id": "616fa96d-6e23-4527-b4a4-71d669eaac25",
+        "quote": "Pathetic Updates and the application has become worst. All my saved music got removed. Oke Cannot back the song. Will uninstall the application now.",
+        "severity": 5
+      },
+      {
+        "review_id": "b03d6dc9-449a-4647-b112-559186656759",
+        "quote": "Generally nice - but integrations buggy, offline mode USELESS, and moving storage failed and deleted everything. Ignores metered setting for WiFi which is a big pain! Fix this stuff and it'd be amazing as the ideas are great. Would be nice to be able to tune the suggestions algorithm as it either sticks to what you know or picks tracks it should know I don't like.",
+        "severity": 5
+      },
+      {
+        "review_id": "c5fb27a7-c193-46f0-b574-3bc119547554",
+        "quote": "Good app but it deleted all of my songs after the new update and now the app only opens 5% of the time",
+        "severity": 5
+      }
+    ],
+    "catalog": [
+      {
+        "review_id": "8d1bfaf3-2632-42a1-90d0-eb7fd381358a",
+        "quote": "Good music app. Missing some songs I love. Charged me wrong once.",
+        "severity": 5
+      },
+      {
+        "review_id": "056c340f-c7ad-42d8-a275-37e46f1f4f24",
+        "quote": "It won't show any of my Playlists or library-- the screen is black and no songs are available. I have the free version so I can listen to all the ads, though!",
+        "severity": 4
+      },
+      {
+        "review_id": "088909d0-cf9b-42b5-9259-e03b6d1cfa47",
+        "quote": "Bro what are you doing bro? 💀 Simply just taking away basic music rights from humans? Literally now I can't even search and play music! Legit bring back those features for free. I ain't buying subscription I don't hav money 💀",
+        "severity": 4
+      }
+    ],
+    "access": [
+      {
+        "review_id": "55123d02-711d-4e41-b644-06e2c3c4db18",
+        "quote": "Whenever I close the app it always logs me out and it did it this time and I had 1300 liked songs and lost all of them",
+        "severity": 5
+      },
+      {
+        "review_id": "04ea0f0c-287d-4b52-a9ab-419bd4e704bf",
+        "quote": "I aggree with the users. They also bugged the lite version, means horribly not login with the mobile number. What the bug is it. Please fix it. Also the specific part skipping is in premium. It it goes like this, the normal users , who cover a major part will lose the app. Hope this bug will fix soon or else we would have to shift to another app.",
+        "severity": 4
+      },
+      {
+        "review_id": "07997e14-5059-4fbb-adf8-4959f4b3f8e6",
+        "quote": "unable to login on spotify.",
+        "severity": 4
+      }
+    ],
+    "support": [
+      {
+        "review_id": "234c3025-5566-4d2c-abb9-0bf65f2a71cf",
+        "quote": "I did give 5 stars at first, but now I have to give it 1 for surviving samsungs updates. I have been without spotify for 2 weeks since the 10s plus' last update and neither Samsung nor spotify could help although each tried for an hour to help me. Noone could help except Youbreakifix. They had to install one thru the internet. I still can't use the app. I'm paying premium for a non app.",
+        "severity": 4
+      },
+      {
+        "review_id": "5782aeec-f1e0-4730-a0c4-51ba54303b27",
+        "quote": "Rough experience with Duo plan technical issues. Customer support has no power to credit users for lost service. We paid for duo for a month before we managed to get it working with tech support. No credit. No discount. No refund (even partial) I entreat Spotify to make it right. I'll likely change my opinion if they do.",
+        "severity": 4
+      },
+      {
+        "review_id": "9e6ceb1f-6757-4883-a912-a4607e6e180f",
+        "quote": "I loved spotify but 2 reasons I'm hating it now is One being the lack of response for the miscalculation of the most streamed kpop idol and absolutely no messages for apologies to lisa. Second, I haven't been able to log in for ages now. It's annoying.",
+        "severity": 4
+      }
+    ]
+  },
+  "claims": [
+    {
+      "claim_id": "usability.complaint_count",
+      "issue_id": "usability",
+      "metric": "complaint_count",
+      "value": "1302"
+    },
+    {
+      "claim_id": "usability.severity_sum",
+      "issue_id": "usability",
+      "metric": "severity_sum",
+      "value": "3267"
+    },
+    {
+      "claim_id": "usability.mean_severity",
+      "issue_id": "usability",
+      "metric": "mean_severity",
+      "value": "2.509217"
+    },
+    {
+      "claim_id": "usability.priority_score",
+      "issue_id": "usability",
+      "metric": "priority_score",
+      "value": "3267"
+    },
+    {
+      "claim_id": "other.complaint_count",
+      "issue_id": "other",
+      "metric": "complaint_count",
+      "value": "1430"
+    },
+    {
+      "claim_id": "other.severity_sum",
+      "issue_id": "other",
+      "metric": "severity_sum",
+      "value": "2855"
+    },
+    {
+      "claim_id": "other.mean_severity",
+      "issue_id": "other",
+      "metric": "mean_severity",
+      "value": "1.996503"
+    },
+    {
+      "claim_id": "other.priority_score",
+      "issue_id": "other",
+      "metric": "priority_score",
+      "value": "2855"
+    },
+    {
+      "claim_id": "playback.complaint_count",
+      "issue_id": "playback",
+      "metric": "complaint_count",
+      "value": "626"
+    },
+    {
+      "claim_id": "playback.severity_sum",
+      "issue_id": "playback",
+      "metric": "severity_sum",
+      "value": "2088"
+    },
+    {
+      "claim_id": "playback.mean_severity",
+      "issue_id": "playback",
+      "metric": "mean_severity",
+      "value": "3.335463"
+    },
+    {
+      "claim_id": "playback.priority_score",
+      "issue_id": "playback",
+      "metric": "priority_score",
+      "value": "2088"
+    },
+    {
+      "claim_id": "billing.complaint_count",
+      "issue_id": "billing",
+      "metric": "complaint_count",
+      "value": "663"
+    },
+    {
+      "claim_id": "billing.severity_sum",
+      "issue_id": "billing",
+      "metric": "severity_sum",
+      "value": "1809"
+    },
+    {
+      "claim_id": "billing.mean_severity",
+      "issue_id": "billing",
+      "metric": "mean_severity",
+      "value": "2.728507"
+    },
+    {
+      "claim_id": "billing.priority_score",
+      "issue_id": "billing",
+      "metric": "priority_score",
+      "value": "1809"
+    },
+    {
+      "claim_id": "access.complaint_count",
+      "issue_id": "access",
+      "metric": "complaint_count",
+      "value": "146"
+    },
+    {
+      "claim_id": "access.severity_sum",
+      "issue_id": "access",
+      "metric": "severity_sum",
+      "value": "570"
+    },
+    {
+      "claim_id": "access.mean_severity",
+      "issue_id": "access",
+      "metric": "mean_severity",
+      "value": "3.904110"
+    },
+    {
+      "claim_id": "access.priority_score",
+      "issue_id": "access",
+      "metric": "priority_score",
+      "value": "570"
+    },
+    {
+      "claim_id": "catalog.complaint_count",
+      "issue_id": "catalog",
+      "metric": "complaint_count",
+      "value": "198"
+    },
+    {
+      "claim_id": "catalog.severity_sum",
+      "issue_id": "catalog",
+      "metric": "severity_sum",
+      "value": "559"
+    },
+    {
+      "claim_id": "catalog.mean_severity",
+      "issue_id": "catalog",
+      "metric": "mean_severity",
+      "value": "2.823232"
+    },
+    {
+      "claim_id": "catalog.priority_score",
+      "issue_id": "catalog",
+      "metric": "priority_score",
+      "value": "559"
+    },
+    {
+      "claim_id": "downloads.complaint_count",
+      "issue_id": "downloads",
+      "metric": "complaint_count",
+      "value": "81"
+    },
+    {
+      "claim_id": "downloads.severity_sum",
+      "issue_id": "downloads",
+      "metric": "severity_sum",
+      "value": "265"
+    },
+    {
+      "claim_id": "downloads.mean_severity",
+      "issue_id": "downloads",
+      "metric": "mean_severity",
+      "value": "3.271605"
+    },
+    {
+      "claim_id": "downloads.priority_score",
+      "issue_id": "downloads",
+      "metric": "priority_score",
+      "value": "265"
+    },
+    {
+      "claim_id": "support.complaint_count",
+      "issue_id": "support",
+      "metric": "complaint_count",
+      "value": "11"
+    },
+    {
+      "claim_id": "support.severity_sum",
+      "issue_id": "support",
+      "metric": "severity_sum",
+      "value": "29"
+    },
+    {
+      "claim_id": "support.mean_severity",
+      "issue_id": "support",
+      "metric": "mean_severity",
+      "value": "2.636364"
+    },
+    {
+      "claim_id": "support.priority_score",
+      "issue_id": "support",
+      "metric": "priority_score",
+      "value": "29"
+    }
+  ],
+  "recommendations": [
+    {
+      "action": "Investigate playlist visibility and recovery, and review confusing or inconsistent listening and ad experiences.",
+      "claim_ids": [
+        "usability.priority_score",
+        "usability.complaint_count",
+        "usability.mean_severity"
+      ],
+      "issue_id": "usability",
+      "rationale": "Usability ranks highest by priority score, and the supplied reviews describe playlists disappearing or failing to load alongside ad interruptions.",
+      "review_ids": [
+        "d87536c5-6fe0-4b38-b0b1-c47936e4a0d8",
+        "ee11e1df-cb73-4c3a-b5e8-7268c7872b01",
+        "131c2c68-4e7f-413e-9618-94d032c7ac5d"
+      ]
+    },
+    {
+      "action": "Review privacy controls and third-party access protections, and make data collection and deletion options clear and reliable.",
+      "claim_ids": [
+        "other.priority_score",
+        "other.complaint_count",
+        "other.mean_severity"
+      ],
+      "issue_id": "other",
+      "rationale": "This issue has a high priority score, and the supplied reviews raise concerns about personal information, unwanted activity, and possible third-party access.",
+      "review_ids": [
+        "68a5d92a-1dca-40ba-b9f8-fc61a24b12a8",
+        "74ae4c26-9e3f-475c-ba0e-ed683ca5b88c",
+        "9ec6712e-a862-4605-ae0e-e6998105f921"
+      ]
+    },
+    {
+      "action": "Investigate failures to start or continue playback and improve diagnosis of loading and network-error reports.",
+      "claim_ids": [
+        "playback.priority_score",
+        "playback.complaint_count",
+        "playback.mean_severity"
+      ],
+      "issue_id": "playback",
+      "rationale": "Playback ranks prominently by priority score, and the supplied reviews describe songs not playing, persistent loading, and network errors despite connectivity.",
+      "review_ids": [
+        "a405a67b-b1f3-4e53-a556-2ebb765c21fb",
+        "004d1c8a-a8c8-4746-b975-cd2f31c2a730",
+        "006b8080-637f-497f-893a-e8b2e44f1a0c"
+      ]
+    },
+    {
+      "action": "Review cancellation and subscription-charge handling, including how users can verify cancellation and raise disputed charges.",
+      "claim_ids": [
+        "billing.priority_score",
+        "billing.complaint_count",
+        "billing.mean_severity"
+      ],
+      "issue_id": "billing",
+      "rationale": "Billing has a substantial priority score, and the supplied reviews describe unexpected charges after cancellation or for a subscription another person reportedly did not use.",
+      "review_ids": [
+        "41c0c736-6617-466a-8e4d-3a2b551185e5",
+        "6985febf-75fa-47e9-9a86-c62f47a18554",
+        "70c10706-cb1c-4623-9c21-bf303e1e6ebe"
+      ]
+    },
+    {
+      "action": "Investigate login persistence and mobile-number sign-in, and review recovery options for accounts and saved content.",
+      "claim_ids": [
+        "access.priority_score",
+        "access.complaint_count",
+        "access.mean_severity"
+      ],
+      "issue_id": "access",
+      "rationale": "Access has the highest mean severity among the listed issues, and the supplied reviews report being logged out, difficulty signing in, and lost liked songs.",
+      "review_ids": [
+        "55123d02-711d-4e41-b644-06e2c3c4db18",
+        "04ea0f0c-287d-4b52-a9ab-419bd4e704bf",
+        "07997e14-5059-4fbb-adf8-4959f4b3f8e6"
+      ]
+    },
+    {
+      "action": "Review missing or inaccessible tracks and libraries, and clarify which search and playback features are available across plans.",
+      "claim_ids": [
+        "catalog.priority_score",
+        "catalog.complaint_count",
+        "catalog.mean_severity"
+      ],
+      "issue_id": "catalog",
+      "rationale": "Catalog complaints include reports of missing songs, unavailable playlists, and frustration about access to basic features.",
+      "review_ids": [
+        "8d1bfaf3-2632-42a1-90d0-eb7fd381358a",
+        "056c340f-c7ad-42d8-a275-37e46f1f4f24",
+        "088909d0-cf9b-42b5-9259-e03b6d1cfa47"
+      ]
+    },
+    {
+      "action": "Investigate update and storage-related loss of saved music, and improve the reliability of offline listening and recovery.",
+      "claim_ids": [
+        "downloads.priority_score",
+        "downloads.complaint_count",
+        "downloads.mean_severity"
+      ],
+      "issue_id": "downloads",
+      "rationale": "The supplied reviews describe removed downloads, failed storage moves, and offline mode problems.",
+      "review_ids": [
+        "616fa96d-6e23-4527-b4a4-71d669eaac25",
+        "b03d6dc9-449a-4647-b112-559186656759",
+        "c5fb27a7-c193-46f0-b574-3bc119547554"
+      ]
+    },
+    {
+      "action": "Review support paths for unresolved technical problems and clarify available remedies when service is unavailable.",
+      "claim_ids": [
+        "support.priority_score",
+        "support.complaint_count",
+        "support.mean_severity"
+      ],
+      "issue_id": "support",
+      "rationale": "The supplied reviews describe prolonged access problems and difficulty obtaining help or remedies for technical issues.",
+      "review_ids": [
+        "234c3025-5566-4d2c-abb9-0bf65f2a71cf",
+        "5782aeec-f1e0-4730-a0c4-51ba54303b27",
+        "9e6ceb1f-6757-4883-a912-a4607e6e180f"
+      ]
+    }
+  ],
+  "pilotStatus": "Real cold/warm 100, 500 and 10,000 completed",
+  "apiSpend": null,
+  "knownApiSubtotal": 0.439282466,
+  "unknownCalls": 9,
+  "verificationAgreement": 0.748,
+  "verificationSample": 1000,
+  "qualityStatus": "Development results: 74.8% verifier agreement; two adversarial failures; export review required. Full run not started.",
+  "updatedAt": "2026-10-24T21:06:47.346991+00:00"
+}
